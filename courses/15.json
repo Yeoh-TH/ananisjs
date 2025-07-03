@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4373HM",
+    "courseName": "Policy Issues of Singapore Economy",
+    "about": "This seminar course aims at an in-depth analysis of the structural changes in the Singapore economy, critical evaluation of the development strategies and policies, and discussion of issues, problems, and policy options. Seminar topics will include sources of growth and productivity, changing development strategies, economic restructuring, savings, Central Provident Fund and social security, foreign reserves and exchange rate management, development of the financial centre and other services, industrial policy and the pattern of industrialisation, role of foreign investment and foreign workers, domestic entrepreneurship, wages policy, the labour market and manpower development, export competitiveness, public housing and public transport."
+  },
+  {
+    "courseCode": "EC4377",
+    "courseName": "Global Economic History",
+    "about": "In this course, we use economic theory and quantitative methods to understand why some countries grew rich while others did not. Since the operation of an economy cannot be devoid of its institutional context, special attention will be paid to the political economy of development. Besides the economics literature, we will also read selected works by historians, political scientists, and sociologists to gain a more comprehensive understanding of development issues in Asia, Africa, and the West in recent centuries."
+  },
+  {
+    "courseCode": "EC4377HM",
+    "courseName": "Global Economic History",
+    "about": "In this course, we use economic theory and quantitative methods to understand why some countries grew rich while others did not. Since the operation of an economy cannot be devoid of its institutional context, special attention will be paid to the political economy of development. Besides the economics literature, we will also read selected works by historians, political scientists, and sociologists to gain a more comprehensive understanding of development issues in Asia, Africa, and the West in recent centuries."
+  },
+  {
+    "courseCode": "EC4382",
+    "courseName": "Transport Economics",
+    "about": "This course aims to expose students to the key problems and issues in transport economics and to ideas that have wider applications across the transport sector. As an applied area of microeconomics, the course focuses on demand, production and costs, pricing and investment, and competition and regulation. The course will apply theories in a variety of contexts so that students will gain valuable insights into the particular characteristics of transport modes. Assessment tasks will be designed to allow students to explore these matters in depth."
+  },
+  {
+    "courseCode": "EC4382HM",
+    "courseName": "Transport Economics",
+    "about": "This course aims to expose students to the key problems and issues in transport economics and to ideas that have wider applications across the transport sector. As an applied area of microeconomics, the course focuses on demand, production and costs, pricing and investment, and competition and regulation. The course will apply theories in a variety of contexts so that students will gain valuable insights into the particular characteristics of transport modes. Assessment tasks will be designed to allow students to explore these matters in depth."
+  },
+  {
+    "courseCode": "EC4383",
+    "courseName": "Environmental Economics and Policy",
+    "about": "This course will undertake a rigorous theoretical and empirical study of the economic effects of environmental policies at the local, national, and global level. It will make use of microeconomic and statistical analysis at the intermediate level, and will incorporate real-world examples. The course will be divided into two parts: first, we will discuss how markets fail to efficiently allocate resources in the presence of pollution, along with the class of policies used to correct those failures. The second part will focus on the empirical techniques used by economists to assign values to environmental commodities."
+  },
+  {
+    "courseCode": "EC4383HM",
+    "courseName": "Environmental Economics and Policy",
+    "about": "This course will undertake a rigorous theoretical and empirical study of the economic effects of environmental policies at the local, national, and global level. It will make use of microeconomic and statistical analysis at the intermediate level, and will incorporate real-world examples. The course will be divided into two parts: first, we will discuss how markets fail to efficiently allocate resources in the presence of pollution, along with the class of policies used to correct those failures. The second part will focus on the empirical techniques used by economists to assign values to environmental commodities."
+  },
+  {
+    "courseCode": "EC4384",
+    "courseName": "Resource and Energy Economics II",
+    "about": "This course covers topics relating to energy and its use. The topics covered are characteristics of energy, the demand for energy, perspectives on the supply (and supply technology) of energy, energy modelling, economics of energy security, energy industry and energy market deregulation, energy trading, energy policy, and energy and growth. Through this course, students could understand efficient and economic use of energy, acquire interdisciplinary nature of energy use, and expedite solution mechanisms for externalities caused by the energy use."
+  },
+  {
+    "courseCode": "EC4384HM",
+    "courseName": "Resource and Energy Economics II",
+    "about": "This course covers topics relating to energy and its use. The topics covered are characteristics of energy, the demand for energy, perspectives on the supply (and supply technology) of energy, energy modelling, economics of energy security, energy industry and energy market deregulation, energy trading, energy policy, and energy and growth. Through this course, students could understand efficient and economic use of energy, acquire interdisciplinary nature of energy use, and expedite solution mechanisms for externalities caused by the energy use."
+  },
+  {
+    "courseCode": "EC4387",
+    "courseName": "Housing Economics",
+    "about": "This course is an introduction to how housing markets function. While theoretical motivations will be provided, the focus of the course will be on the empirical analysis of important issues in housing and urban economics. The empirical techniques taught in this course will be applicable to all other areas of economics that model micro behaviour."
+  }
+]

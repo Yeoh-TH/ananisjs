@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "ECA5396",
+    "courseName": "Economics of Business and Law of Intellectual Assets",
+    "about": "Evaluating and commercializing intellectual assets (IA) is important to seek capital source or cash for any entity who owns any form of IA like goodwill, branding, patent, trademark, copyright, trade secret, etc. The objective of this course is to examine the business context of IA, the legal aspects of IA that heavily affect its value, the financial principles and applications against which IA might be evaluated, and from which exploitation strategies might be derived. This course will equip financial and business professionals with critical understanding of IA valuation, IP management and exploitation strategy making, and economic principles underlying IP value."
+  },
+  {
+    "courseCode": "ECA5401",
+    "courseName": "Graduate Internship in Applied Economics",
+    "about": "In today's competitive job market, academic excellence alone is not enough. This course empowers Master's students in applied economics to apply their theoretical knowledge in a real-world environment, gain essential people skills, forge industry connections, and enhance their employability upon graduation. This course requires students to perform a minimum of 20 hours per week structured internship in an approved company/institution for a stipulated minimum period of 12 weeks."
+  },
+  {
+    "courseCode": "ECA5660",
+    "courseName": "Independent Study",
+    "about": "Independent research plays an important role in graduate education. The Independent Study course is designed to enable the student to explore an approved topic in Economics in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Heads and/or Graduate Coordinators approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "ECA5880",
+    "courseName": "Topics in Applied Economics",
+    "about": "The purpose of this course is designed to help students become comfortable and creative as economic researchers and modelers. The course teaches both the principles of microeconomic theory and the fundamental concepts in the various fields of applied microeconomics, such as health economics, public economics and labour economics. Students will learn how to use various economic tools to predict how various parties might respond to changes in public policies."
+  },
+  {
+    "courseCode": "ECA5881",
+    "courseName": "Topics in Economic Policy",
+    "about": "The purpose of this course is to introduce students to the application of economic theory to public policy. The emphasis will be placed on economic analysis of public policy. Topics include market failures and government intervention, intellectual property right protection, taxation, income distribution, education, public goods, social security and health care."
+  },
+  {
+    "courseCode": "ECA5882",
+    "courseName": "Topics in Applied Macroeconomics",
+    "about": "This course applies the tools of macroeconomic analysis to analyze issues related to the determination of output, unemployment and inflation in the economy. It utilizes various economic frameworks and models for understanding macroeconomic developments and events. The course examines the applications of macroeconomic theory to policy in analysing the causes of macroeconomic events and their consequences."
+  },
+  {
+    "courseCode": "ECA5884",
+    "courseName": "Applied Behavioural Economics",
+    "about": "This course provides an introduction to the field of behavioural economics. In the first part of the course, we will familiarize students with specific empirical problems of the standard model in economics, which assumes that individuals are fully rational, act consistently over time, and are strictly selfish. We will show how departures from these assumptions can be modelled and integrated into economics analysis. In the second part, we will show how this approach can be put to use. We will study how policy interventions can be made more effective, for example in resource conservation, retirement savings, and human‐resource practices."
+  },
+  {
+    "courseCode": "EU4401",
+    "courseName": "Honours Thesis",
+    "about": "Students enrolled in the module can select an EU-based topic and the supervisor based in any discipline across FASS. Regardless of the department of the supervisor, the HT will follow the requirements, format, limits and deadlines set by the History Department. The Honours Thesis is a research and writing exercise usually done in the final semester of a student pursuing an Honours degree."
+  },
+  {
+    "courseCode": "EU4660",
+    "courseName": "Independent Study",
+    "about": "The Independent Study Course is designed to enable the student to explore an approved topic within the discipline in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Honours Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "EU4660HM",
+    "courseName": "Independent Study",
+    "about": "The Independent Study Course is designed to enable the student to explore an approved topic within the discipline in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Honours Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  }
+]

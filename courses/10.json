@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4307",
+    "courseName": "Issues in Macroeconomics",
+    "about": "This course draws on the tools of macro‐economic analysis developed in EC2102 and EC3102. It applies the tools to understand the classic and contemporary macroeconomic problems and policies The first half of the semester will be devoted to a quick review of important tools of Macroeconomic analysis. The second half will employ the tools to analyse significant historical as well as contemporary macroeconomic events."
+  },
+  {
+    "courseCode": "EC4307HM",
+    "courseName": "Issues in Macroeconomics",
+    "about": "This course draws on the tools of macro‐economic analysis developed in EC2102 and EC3102. It applies the tools to understand the classic and contemporary macroeconomic problems and policies The first half of the semester will be devoted to a quick review of important tools of Macroeconomic analysis. The second half will employ the tools to analyse significant historical as well as contemporary macroeconomic events."
+  },
+  {
+    "courseCode": "EC4308",
+    "courseName": "Machine Learning and Economic Forecasting",
+    "about": "The course will introduce the students to machine learning and data mining methods for economics problems. It will provide a conceptual understanding of the popular machine learning supervised methods including decision trees, neural networks, and support vector machines as well as some unsupervised learning methods. Students will be able to learn how these methods differ from and complement the econometric models and to choose the right one for a given task. To apply the theory, the student will work on hands-on in-class examples, assignments, and the final project."
+  },
+  {
+    "courseCode": "EC4308HM",
+    "courseName": "Machine Learning and Economic Forecasting",
+    "about": "The course will introduce the students to machine learning and data mining methods for economics problems. It will provide a conceptual understanding of the popular machine learning supervised methods including decision trees, neural networks, and support vector machines as well as some unsupervised learning methods. Students will be able to learn how these methods differ from and complement the econometric models and to choose the right one for a given task. To apply the theory, the student will work on hands-on in-class examples, assignments, and the final project."
+  },
+  {
+    "courseCode": "EC4311",
+    "courseName": "Mathematical Economic Analysis",
+    "about": "The course covers advanced mathematical techniques applied in economic theory and economic modelling. A major focus on the course will be Dynamic Optimization, including recursive methods and optimal control theory. The emphasis will be placed on both mathematics and economic applications. Students who are interested in pursuing higher degree in economics are strongly encouraged to take this course."
+  },
+  {
+    "courseCode": "EC4311HM",
+    "courseName": "Mathematical Economic Analysis",
+    "about": "The course covers advanced mathematical techniques applied in economic theory and economic modelling. A major focus on the course will be Dynamic Optimization, including recursive methods and optimal control theory. The emphasis will be placed on both mathematics and economic applications. Students who are interested in pursuing higher degree in economics are strongly encouraged to take this course."
+  },
+  {
+    "courseCode": "EC4312",
+    "courseName": "Strategy and Information",
+    "about": "Game theory is a formal framework with a collection of models and solution concepts that capture strategic interactions among multiple decision makers. This course covers advanced topics in modern game theory. Topics vary from year to year, and may include equilibrium refinement, epistemic game theory, bargaining, repeated and stochastic games, reputation, games with incomplete information, communication and persuasion, and/or learning and evolution. The course is proof-based and emphasizes mathematical rigor and clarity in economically relevant and interesting problems."
+  },
+  {
+    "courseCode": "EC4313",
+    "courseName": "Search Theory and Applications",
+    "about": "This course studies models that depart from the standard Walrasian environment through the introduction of search and matching frictions, with applications to labour, goods, marriage and money markets. By introducing frictions, we can use our models to think more deeply about issues like wage/price dispersion, unemployment compensation, whether sellers should post prices or conduct auctions, or even why money is held."
+  },
+  {
+    "courseCode": "EC4313HM",
+    "courseName": "Search Theory and Applications",
+    "about": "This course studies models that depart from the standard Walrasian environment through the introduction of search and matching frictions, with applications to labour, goods, marriage and money markets. By introducing frictions, we can use our models to think more deeply about issues like wage/price dispersion, unemployment compensation, whether sellers should post prices or conduct auctions, or even why money is held."
+  },
+  {
+    "courseCode": "EC4322",
+    "courseName": "Industrial Organisation II",
+    "about": "This course studies topics in the economics of industrial organization at an advanced undergraduate level. Models of rivalry between firms will be developed and used to analyse a rich array of firm strategies, and their implications for competition policy and/or regulation. Students should be able to use the methods learnt to engage in business and public policy analysis of firm behaviour. Examples of topics which may be included include an analysis of product differentiation, price discrimination, collusion, mergers, vertical constraints, predatory pricing, entry deterrence, bundling and tying, switching costs and network compatibility choice."
+  }
+]

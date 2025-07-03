@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4322HM",
+    "courseName": "Industrial Organisation II",
+    "about": "This course studies topics in the economics of industrial organization at an advanced undergraduate level. Models of rivalry between firms will be developed and used to analyse a rich array of firm strategies, and their implications for competition policy and/or regulation. Students should be able to use the methods learnt to engage in business and public policy analysis of firm behaviour. Examples of topics which may be included include an analysis of product differentiation, price discrimination, collusion, mergers, vertical constraints, predatory pricing, entry deterrence, bundling and tying, switching costs and network compatibility choice."
+  },
+  {
+    "courseCode": "EC4323",
+    "courseName": "Income Distribution Analysis",
+    "about": "This model gives a brief understanding of the requirement of moral values in economic theories. This course focuses to deal with the methods of measurement of inequality, statistical modelling of income distribution, theories of distribution, empirical regularities, country case studies and policy issues. Issues related to standard of living, Human Development Index, concepts of absolute and relative poverty and measurement come under the purview of this course."
+  },
+  {
+    "courseCode": "EC4323HM",
+    "courseName": "Income Distribution Analysis",
+    "about": "This model gives a brief understanding of the requirement of moral values in economic theories. This course focuses to deal with the methods of measurement of inequality, statistical modelling of income distribution, theories of distribution, empirical regularities, country case studies and policy issues. Issues related to standard of living, Human Development Index, concepts of absolute and relative poverty and measurement come under the purview of this course."
+  },
+  {
+    "courseCode": "EC4324",
+    "courseName": "Economics of Competition Policy",
+    "about": "This course studies antitrust and competition policy: the economic analysis of firms acting \"anticompetitively\" and how competition authorities might respond to their actions. It draws on the study of industrial organization."
+  },
+  {
+    "courseCode": "EC4324HM",
+    "courseName": "Economics of Competition Policy",
+    "about": "This course studies antitrust and competition policy: the economic analysis of firms acting \"anticompetitively\" and how competition authorities might respond to their actions. It draws on the study of industrial organization."
+  },
+  {
+    "courseCode": "EC4325",
+    "courseName": "The Economics of Digital Platforms",
+    "about": "This course studies the economics of digital multi-sided platforms such as those run by the big-tech firms Alibaba, Amazon, Apple, Facebook, Google and Tencent. Given such businesses are based on network effects and data, these businesses raise many new economic and strategic questions that policymakers and market participants are currently grappling with, and which our standard economic analysis does not properly address. The course will develop industrial organization models of multi-sided platforms to explore interesting strategy and economic policy questions specific to these platforms."
+  },
+  {
+    "courseCode": "EC4325HM",
+    "courseName": "The Economics of Digital Platforms",
+    "about": "This course studies the economics of digital multi-sided platforms such as those run by the big-tech firms Alibaba, Amazon, Apple, Facebook, Google and Tencent. Given such businesses are based on network effects and data, these businesses raise many new economic and strategic questions that policymakers and market participants are currently grappling with, and which our standard economic analysis does not properly address. The course will develop industrial organization models of multi-sided platforms to explore interesting strategy and economic policy questions specific to these platforms."
+  },
+  {
+    "courseCode": "EC4331",
+    "courseName": "Monetary Economics and Policy",
+    "about": "This course provides an overview of recent developments in monetary economics. Its goal is to introduce students to the literature in this field and help them to understand three key aspects: 1. the impact of monetary policies on real economic outcomes, 2. the objectives guiding central bank operations, and 3. optimal monetary policy. The course covers topics including the Classical model, the New Keynesian model, Monetary Policy Design, Criticisms and Defenses of the New Keynesian Model, Inflation Stabilization Policy, Liquidity Trap and Unconventional Monetary Policy, and Monetary Policy and Heterogeneity."
+  },
+  {
+    "courseCode": "EC4331HM",
+    "courseName": "Monetary Economics and Policy",
+    "about": "This course provides an overview of recent developments in monetary economics. Its goal is to introduce students to the literature in this field and help them to understand three key aspects: 1. the impact of monetary policies on real economic outcomes, 2. the objectives guiding central bank operations, and 3. optimal monetary policy. The course covers topics including the Classical model, the New Keynesian model, Monetary Policy Design, Criticisms and Defenses of the New Keynesian Model, Inflation Stabilization Policy, Liquidity Trap and Unconventional Monetary Policy, and Monetary Policy and Heterogeneity."
+  },
+  {
+    "courseCode": "EC4332",
+    "courseName": "Money and Banking II",
+    "about": "Topics include recent developments in monetary theory and policies, rational expectations, demand for money-econometric analysis and empirical studies, the role of money in general equilibrium, a framework for the determination of money supply, issues in monetary policy such as money neutrality, rules versus discretion, policy credibility, exchange rate determination, monetary policy co-ordination, theories of interest rate determination and structure, credit rationing, issues in bank management, financial markets and instruments, bank regulations, internationalization of banking, and monetary policy and foreign exchange management in Singapore."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4387HM",
+    "courseName": "Housing Economics",
+    "about": "This course is an introduction to how housing markets function. While theoretical motivations will be provided, the focus of the course will be on the empirical analysis of important issues in housing and urban economics. The empirical techniques taught in this course will be applicable to all other areas of economics that model micro behaviour."
+  },
+  {
+    "courseCode": "EC4391",
+    "courseName": "Economics of Entrepreneurship",
+    "about": "New business ventures that fulfil unmet demands by using new ideas or technologies are a critical driving force of economic growth. This course will examine the role of entrepreneurship in modern economy. The topics to be covered include what gives rise to entrepreneurship, how is entrepreneurship financed, what makes start-ups successful, and whether and how public policy promotes entrepreneurship. The student will learn to understand these issues from an interdisciplinary perspective that is informed by recent insights from economics, finance, business strategy, sociology, and psychology."
+  },
+  {
+    "courseCode": "EC4391HM",
+    "courseName": "Economics of Entrepreneurship",
+    "about": "New business ventures that fulfil unmet demands by using new ideas or technologies are a critical driving force of economic growth. This course will examine the role of entrepreneurship in modern economy. The topics to be covered include what gives rise to entrepreneurship, how is entrepreneurship financed, what makes start-ups successful, and whether and how public policy promotes entrepreneurship. The student will learn to understand these issues from an interdisciplinary perspective that is informed by recent insights from economics, finance, business strategy, sociology, and psychology."
+  },
+  {
+    "courseCode": "EC4394",
+    "courseName": "Behavioural Economics",
+    "about": "This course introduces students to Behavioural Economics, a relatively new field of economics. It is based on the belief that economists should aspire to making assumptions about humans that are as realistic as possible. Specifically, it tries to incorporate into economics the insights of other social sciences, especially psychology and sociology. In this course, we will be looking at models with precisely formulated assumptions and thinking about the careful empirical testing of both the assumptions and the conclusions. The course will be weighted more towards the empirical parts."
+  },
+  {
+    "courseCode": "EC4394HM",
+    "courseName": "Behavioural Economics",
+    "about": "This course introduces students to Behavioural Economics, a relatively new field of economics. It is based on the belief that economists should aspire to making assumptions about humans that are as realistic as possible. Specifically, it tries to incorporate into economics the insights of other social sciences, especially psychology and sociology. In this course, we will be looking at models with precisely formulated assumptions and thinking about the careful empirical testing of both the assumptions and the conclusions. The course will be weighted more towards the empirical parts."
+  },
+  {
+    "courseCode": "EC4396",
+    "courseName": "Economic Analysis of Law II",
+    "about": "This is the second course in a sequence of two courses in the Economic Analysis of Law. In this course, the students are introduced to the efficiency issues in common law; the economics of public law, such as competition and regulatory policies; the economics of constitutional law and public choice, such as the theory of the state, democracy and social welfare, rent seeking and legislation, and cost-benefit analysis; and some other topics, such as family law, environmental law, and discrimination law."
+  },
+  {
+    "courseCode": "EC4396HM",
+    "courseName": "Economic Analysis of Law II",
+    "about": "This is the second course in a sequence of two courses in the Economic Analysis of Law. In this course, the students are introduced to the efficiency issues in common law; the economics of public law, such as competition and regulatory policies; the economics of constitutional law and public choice, such as the theory of the state, democracy and social welfare, rent seeking and legislation, and cost-benefit analysis; and some other topics, such as family law, environmental law, and discrimination law."
+  },
+  {
+    "courseCode": "EC4398",
+    "courseName": "Economics of Inequality",
+    "about": "This course analyses inequality within a country, across countries, and across generations. We will study mechanisms of inequality such as discrimination and segregation. We will also investigate the role of institutions in creating and perpetuating inequality. Finally, we will examine social mobility."
+  },
+  {
+    "courseCode": "EC4398HM",
+    "courseName": "Economics of Inequality",
+    "about": "This course analyses inequality within a country, across countries, and across generations. We will study mechanisms of inequality such as discrimination and segregation. We will also investigate the role of institutions in creating and perpetuating inequality. Finally, we will examine social mobility."
+  },
+  {
+    "courseCode": "EC4399",
+    "courseName": "Behavioural Public Policy",
+    "about": "The aim of this course is to highlight the most important areas of policy analysis in which insights from behavioural economics have fruitfully been applied. It discusses the underlying behavioural theory, and shows how this can be applied to policy analysis. A strong focus of the course is to outline methods and discuss results that focus on empirically testing and quantifying non-standard motives. We also discuss how such policies can be piloted and evaluated within an evidence-based policy framework. The course also showcases how behavioural insights are used in public policy for Singapore."
+  }
+]

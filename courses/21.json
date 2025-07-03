@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC5324R",
+    "courseName": "Cost- Benefit Analysis",
+    "about": ""
+  },
+  {
+    "courseCode": "EC5326",
+    "courseName": "Policy Impact Evaluation Methods",
+    "about": "This course covers the main policy impact evaluation methods. The aim is to understand how to evaluate the causal impact of a policy and how to choose the best method depending on the type of policy and on the context. This course is suitable for students interested in policy issues."
+  },
+  {
+    "courseCode": "EC5326R",
+    "courseName": "Policy Impact Evaluation Methods",
+    "about": "This course covers the main policy impact evaluation methods. The aim is to understand how to evaluate the causal impact of a policy and how to choose the best method depending on the type of policy and on the context. This course is suitable for students interested in policy issues."
+  },
+  {
+    "courseCode": "EC5332",
+    "courseName": "Money & Banking",
+    "about": "EC5332 is a first year graduate course on money, banking and financial markets. Topics covered include central banking and monetary policy, prudential supervision, financial markets and stochastic processes, the banking industry in South-East Asia, the role of price expectations, and modern theories of money, inflation, interest rates and the exchange rate. An important part of the course is the discussion of selected academic articles, with emphasis placed on the motivation and techniques underlying the theoretical and empirical work."
+  },
+  {
+    "courseCode": "EC5332R",
+    "courseName": "Money & Banking",
+    "about": "Money & Banking"
+  },
+  {
+    "courseCode": "EC5342",
+    "courseName": "International Trade",
+    "about": "This course surveys and studies the various theories of international trade and applies them to the analysis of current trade problems. The topics covered include theories explaining trade patterns, the effect of trade on national welfare and welfare of groups within a country, trade policy, international economic integration and so on. The target group of students are those who had background in economics and would like to have more in-depth knowledge of trade theories and current trade problems."
+  },
+  {
+    "courseCode": "EC5342R",
+    "courseName": "International Trade",
+    "about": "This course surveys and studies the various theories of international trade and applies them to the analysis of current trade problems. The topics covered include theories explaining trade patterns, the effect of trade on national welfare and welfare of groups within a country, trade policy, international economic integration and so on. The target group of students are those who had background in economics and would like to have more in-depth knowledge of trade theories and current trade problems."
+  },
+  {
+    "courseCode": "EC5352",
+    "courseName": "Public Economics",
+    "about": "This course applies economic principles to analyse budgetary policies and programmes of the public sectors. Topics covered include the following:the economic role of the state; the privatisation phenomenon; theory and practice of tax reform; effects of taxes and expenditure on work effort, saving, investment and risk taking; the role of fiscal incentives in economic management; financing of social security, health care and education and; international aspects of taxation."
+  },
+  {
+    "courseCode": "EC5352R",
+    "courseName": "Public Economics",
+    "about": ""
+  },
+  {
+    "courseCode": "EC5353",
+    "courseName": "Health Economics & Policy",
+    "about": "This course aims to provide an introduction to the principal questions addressed in the health economics literature at the graduate level, and to equip students with the basic tools to undertake health policy research and analysis. The tools of microeconomic analysis will be used to analyse the behaviour of consumers, providers and insurers in the health care market. The course will also examine and compare the Singapore health care system and health care policies with those of developed countries such as the US, Canada and the UK, and the different approaches toward reforming the health care systems and health care policies in these countries."
+  }
+]

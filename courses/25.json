@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC6352",
+    "courseName": "Advanced Public Economics",
+    "about": ""
+  },
+  {
+    "courseCode": "EC6361",
+    "courseName": "Advanced Labour Economics",
+    "about": "The objective of the course is to acquaint students with modern topics, modelling strategies, econometric methods, and empirical work in the field of labour economics. Students are also encouraged to extend the course material to develop their independent research interests that could potentially lead to their Ph.D. thesis topics. This course will provide a solid empirical and theoretical grounding in many areas of labour economics, and prepare students to write a dissertation in the field."
+  },
+  {
+    "courseCode": "EC6371",
+    "courseName": "Advanced Development Economics",
+    "about": "This course provides an in-depth treatment of alternative theories and approaches to economic growth and development, and development problems and strategies pertaining to poverty and income distribution, unemployment and rural-urban migration, agriculture, industry,trade and foreign resources."
+  },
+  {
+    "courseCode": "EC6372",
+    "courseName": "Advanced Growth Theory",
+    "about": "This course introduces several important economic growth models and modeling techniques. The main focus will be on building and solving mathematical models of growth, studying the underlying sources of economic growth, and analysing how government policies influence the growth process. Major topics include mathematical modeling of growth, exogenous growth models, endogenous growth models with capital accumulation, technological progress through R&D and growth, growth models with learning-by-doing, diffusion of technology and growth, growth in open economy, and empirical studies of economic growth."
+  },
+  {
+    "courseCode": "EC6770",
+    "courseName": "Graduate Research Seminar",
+    "about": "This is a required course for all research Masters and PhD students admitted from AY2004/2005. The course provides a forum for students and faculty to share their research and to engage one another critically in discussion of their current research projects. The course will include presentations by faculty on research ethics and dissertation writing. Each student is required to present a formal research paper. Active participation in all research presentations is expected. The course may be spread over two semesters or more and will be graded \"Satisfactory/Unsatisfactory\" on the basis of student presentation and participation."
+  },
+  {
+    "courseCode": "EC6880",
+    "courseName": "Advanced Topics in Economics",
+    "about": "This course is designed to cover selected topics in economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC6881",
+    "courseName": "Advanced Topics in Microeconomics",
+    "about": "Selected topics in decision-making under uncertainty, game theory, and information economics."
+  },
+  {
+    "courseCode": "EC6882",
+    "courseName": "Advanced Topics in Macroeconomics",
+    "about": "This course deals with several important topics in macroeconomics. Topics include new growth theory, business cycles, unemployment, inflation and macroeconomic policy. The course introduces students to recent developments in these areas."
+  },
+  {
+    "courseCode": "EC6883",
+    "courseName": "Advanced Topics in Applied Economics",
+    "about": "The purpose of this course is to help PhD students master the necessary skills to do research at the frontier of applied microeconomics. The course covers various reduced-form empirical methods to identify causal effects of public policies, natural experiments, etc. We will discuss classic and recent applications of these methods, drawing mainly on empirical papers from labour economics, development economics, and political economy. Students will learn how to choose, apply, and critically evaluate the methods, interpret and present empirical findings, and contextualize them to the frontier of the literature."
+  },
+  {
+    "courseCode": "EC6884",
+    "courseName": "Behavioral and Experimental Economics",
+    "about": "Behavioral economics stresses the need to incorporate psychological considerations into economic thinking. Experimental economics, including lab and field experiments, builds on the premise that theoretical implications are subject to testing in controlled laboratory settings. There is a natural synergy between them and neuoroimaging and genetics leading to the development of neuroeconomics. This course covers the growing literature in behavioral and experimental economics, including neuroeconomics, and study individual differences in economic behaviour beyond those explicable by culture and socialization towards a deeper understanding of business and market behavior."
+  }
+]

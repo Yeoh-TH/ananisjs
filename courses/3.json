@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "DMA1301HY",
+    "courseName": "Design Your Own Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "DMA1401EC",
+    "courseName": "Design Your Own Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "DMA1401EU",
+    "courseName": "Design Your Own Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "DMA1401HY",
+    "courseName": "Design Your Own Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "DSE4231",
+    "courseName": "Topics in Data Science and the Digital Economy",
+    "about": "This course covers topics at the intersection of economic theory, data science and econometrics. Though the exact topics are dependent on the lecturer(s), they broadly consist of two parts. The first part introduces the relevant economic theory and concepts, as well as the state of the current empirical literature. The second part equips students with relevant state-of-the-art data science methods, such as relevant machine learning techniques and methods relying on big data environments; and demonstrates their application in the context of pertinent economic applications. Some potential applications may include causal inference about treatment effects, demand estimation, experiment design, etc."
+  },
+  {
+    "courseCode": "EC1101E",
+    "courseName": "Introduction to Economic Analysis",
+    "about": "This course introduces students to some of the basic concepts, methods, and models in economics to equip the students to think economically. These tools will enable students to understand current economic issues and appreciate economics in their everyday lives."
+  },
+  {
+    "courseCode": "EC1301",
+    "courseName": "Principles of Economics",
+    "about": "This course is designed to teach the basic principles of economics to undergraduates from non-economic majors. It introduces students to elementary microeconomic and macroeconomic concepts and provides them with an economic framework to understand the workings of individual markets, the aggregate economy, as well as international trade and finance."
+  },
+  {
+    "courseCode": "EC2101",
+    "courseName": "Microeconomic Analysis I",
+    "about": "This course is for students who have studied the principles of economics and will take them through to the next level in their study of microeconomics. Our approach stresses the relevance and application of microeconomic theory in both managerial and public policy decision making. A combination of tables, figures, and simple mathematics will be used to provide the grounding in the key principles of microeconomics for further study in the economics programme."
+  },
+  {
+    "courseCode": "EC2102",
+    "courseName": "Macroeconomic Analysis I",
+    "about": "This course develops the analytical tools to study short-run fluctuations in aggregate economic activities. We emphasize the micro-foundations of macroeconomics and investigate the determinants of consumption, saving, investment, labor demand and labor supply. We derive the IS-LM and AD-AS frameworks and use these frameworks to understand why the economy goes through booms and busts. We also discuss different theories of the business cycles, such as the Keynesian and the Real Business Cycle theories. In particular, we examine their assumptions and policy implications for macroeconomic stabilisation."
+  },
+  {
+    "courseCode": "EC2104",
+    "courseName": "Quantitative Methods for Economic Analysis",
+    "about": "This course seeks to enable students to integrate relevant basic mathematical knowhow with economic analysis. The main objective is to develop in the students the process skills for formulating and solving economic problems mathematically. Topics include equilibrium analysis, understanding and use of matrix algebra and differential and integral calculus in formulating and solving economic problems, comparative‐static analysis, and selected optimization problems in economics."
+  }
+]

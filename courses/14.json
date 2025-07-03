@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4361HM",
+    "courseName": "Big data and Labour Market Analysis",
+    "about": "This course aims to train students to how use big data to analyse advanced labour market issues. Issues discussed include the impacts of the recent technology improvements on labour supply and labour demand; the effects of minimum wage on employment; labour market discrimination; theory and recent developments on income wage and wealth inequality and intergenerational mobility. Students learn current econometric and theoretical methods used in applied microeconomics and how to apply these methods in analysing the issues that they are interested in."
+  },
+  {
+    "courseCode": "EC4362",
+    "courseName": "Immigration Economics",
+    "about": "This course studies global and regional factors that influence international migration and its impact on welfare and development outcomes of individuals and communities in source as well as destination countries."
+  },
+  {
+    "courseCode": "EC4362HM",
+    "courseName": "Immigration Economics",
+    "about": "This course studies global and regional factors that influence international migration and its impact on welfare and development outcomes of individuals and communities in source as well as destination countries."
+  },
+  {
+    "courseCode": "EC4363",
+    "courseName": "Applied Population Economics",
+    "about": "This course will provide a foundation in applied population economics in both developed and developing countries, with a focus on macro‐demographic patterns and transitions, marriage and fertility, and household formation and bargaining. In addition to learning underlying models of economic decision‐making, students will use Stata to conduct economic analysis of demographic trends, and they will write an original research paper that applies some of the principles covered to a topic of their choosing."
+  },
+  {
+    "courseCode": "EC4363HM",
+    "courseName": "Applied Population Economics",
+    "about": "This course will provide a foundation in applied population economics in both developed and developing countries, with a focus on macro‐demographic patterns and transitions, marriage and fertility, and household formation and bargaining. In addition to learning underlying models of economic decision‐making, students will use Stata to conduct economic analysis of demographic trends, and they will write an original research paper that applies some of the principles covered to a topic of their choosing."
+  },
+  {
+    "courseCode": "EC4371",
+    "courseName": "Development Economics",
+    "about": "This course offers an in-depth analysis of some important theories and issues concerning economic growth and development in developing countries. Important theories and/or models relating to various issues concerning development will be examined. The course will also discuss policy issues relating to such areas as agricultural development, income distribution, industrialisation, trade, and foreign investment. The course is of interest to students interested in development theories and their application to finding solutions to policy problems in developing countries."
+  },
+  {
+    "courseCode": "EC4371HM",
+    "courseName": "Development Economics",
+    "about": "This course offers an in-depth analysis of some important theories and issues concerning economic growth and development in developing countries. Important theories and/or models relating to various issues concerning development will be examined. The course will also discuss policy issues relating to such areas as agricultural development, income distribution, industrialisation, trade, and foreign investment. The course is of interest to students interested in development theories and their application to finding solutions to policy problems in developing countries."
+  },
+  {
+    "courseCode": "EC4372",
+    "courseName": "Technology and Innovation",
+    "about": "This course aims to equip students with comprehensive understanding of the nexus between technology, innovation and economy. It deals with major theories of 'technology economics' and attempts to synthesise them with historical and comparative perspective. An emphasis is placed on methodology due to the interdisciplinary characteristics of the subject. Some questions to be explored include: (1) major characteristics of technological change, (2) impacts of technical changes on the economy, (3) competitive strategies of firms and nations in coping with technological changes, (4) globalisation of production and R&D networks, (5) comparison of national innovation systems of East Asian countries, (6) Singapore's future in technological development."
+  },
+  {
+    "courseCode": "EC4372HM",
+    "courseName": "Technology and Innovation",
+    "about": "This course aims to equip students with comprehensive understanding of the nexus between technology, innovation and economy. It deals with major theories of 'technology economics' and attempts to synthesise them with historical and comparative perspective. An emphasis is placed on methodology due to the interdisciplinary characteristics of the subject. Some questions to be explored include: (1) major characteristics of technological change, (2) impacts of technical changes on the economy, (3) competitive strategies of firms and nations in coping with technological changes, (4) globalisation of production and R&D networks, (5) comparison of national innovation systems of East Asian countries, (6) Singapore's future in technological development."
+  },
+  {
+    "courseCode": "EC4373",
+    "courseName": "Policy Issues of Singapore Economy",
+    "about": "This seminar course aims at an in-depth analysis of the structural changes in the Singapore economy, critical evaluation of the development strategies and policies, and discussion of issues, problems, and policy options. Seminar topics will include sources of growth and productivity, changing development strategies, economic restructuring, savings, Central Provident Fund and social security, foreign reserves and exchange rate management, development of the financial centre and other services, industrial policy and the pattern of industrialisation, role of foreign investment and foreign workers, domestic entrepreneurship, wages policy, the labour market and manpower development, export competitiveness, public housing and public transport."
+  }
+]

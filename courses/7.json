@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC3376",
+    "courseName": "Economics of European Integration",
+    "about": "“European Economic Integration” covers the historical origins, contemporary developments, institutions and the major economic and other policy areas of the European Union: The Single Market, Monetary Union, customs union, sectoral policies (competition, regional development, agriculture, environment, research, social policy, transportation, energy, industry, trade etc), her future enlargement and cooperation in internal security/immigration and external security and foreign policy. The tutorials focus on individual economic and political country profiles of the EU’s current and future member states. The objective is to give students a sound background to evaluate the EU’s and her member states current and future economic and political situation and to study the evolution and the problems of regional integration in using the world’s most advanced model case. As the course is interdisciplinary in nature (covering economics, politics, contemporary history and law), interested students from other faculties are encouraged to attend. Basic economic literacy and some knowledge of European history and politics are a definite plus."
+  },
+  {
+    "courseCode": "EC3378",
+    "courseName": "Emerging India in Asia's Economic Integration",
+    "about": "India is one of Asia’s most important economies and amongst the largest in the world. However, India’s, and South Asia’s trade/investment integration with the rest of Asia remains limited. With business‐friendly government firmly in power in India, the course will focus on applied aspects of the macroeconomic fundamentals, and growth strategies in India and South Asian economies, and their cross‐border thematic issues with policy relevance (e.g. demographic dividend, overcoming poverty, income inequality, knowledge economy, R&D/innovation, environmental challenges, governance issues, etc). The course will also deal with the ongoing and planned intra‐regional, and interregional cooperation measures (eg. SAARC, SAFTA, SASEC, ASEAN, RCEP, GMS, BRICS’ NDB, etc)."
+  },
+  {
+    "courseCode": "EC3381",
+    "courseName": "Urban Economics",
+    "about": "The course provides students with a general knowledge on various aspects of urban economics. It uses microeconomic analysis to explain why cities exits, where they develop, how they grow, and how different activities are arranged within cities. Models of firm, industrial and household location decisions will form the basis in analysing urban land use patterns and trends. Other topics covered include housing markets, the role of the government in the urban economy, and urban transportation. The course is for students with strong microeconomic background and with interest in urban economics."
+  },
+  {
+    "courseCode": "EC3384",
+    "courseName": "Resource and Energy Economics I",
+    "about": "This course examines economics of natural resource use and energy economics. The materials covered include basic concepts of renewable and non-renewable resources and energy, dynamics of resource use, optimal use of renewable resources, optimal depletion of exhaustible resources, intergenerational equity in resource use, profiles of energy resources and technology, demand for and supply of energy, energy and growth, economics of climate change, and issues relating to sustainability. Through this course, students could acquire interdisciplinary nature of resource and energy use."
+  },
+  {
+    "courseCode": "EC3385",
+    "courseName": "Maritime and Shipping Economics",
+    "about": "International transportation has evolved into a complex system involving ocean carriers, ports, terminals and multimodal transport intermediaries. In such networks, major container hubs, such as this of Singapore, play a crucial role as 'nodes' and trans-shipment centres. Nowadays, the optimization of global supply chains requires a holistic approach to shipping through the study of what has come to be known as Maritime Economics and Logistics (MEL). The course follows this approach, focusing on liner (container) shipping, its operations, structure and regulatory environment."
+  },
+  {
+    "courseCode": "EC3386",
+    "courseName": "Port Economics",
+    "about": "The rapid process of globalisation over the last decade with intensive international trade, foreign investment and manufacturing outsourcing and the booming resources sector, has had pervasive effects on the way ports are built and operated, from providing simple ship shelter and warehouse services to much more complex, multimodal terminal services, from monopoly to competition, and from state/government-owned to local private corporations. Port Economics explores fundamental issues related to port operation and management from the economic perspective, including but not limited to port planning and development, competition, tariff design, performance monitoring, policies and regulations."
+  },
+  {
+    "courseCode": "EC3391",
+    "courseName": "Evolution of Economic Thought & Analysis",
+    "about": "This course will introduce students to the works, ideas and significance of many of the most influential economists and writers on economic topics of the last four hundred years or so. We will start with the development of analytical economics during the mercantile era in Europe and reach the second half of this century when we will overview the main competing schools in economics and appreciate their historical background. Students will be expected to read parts of the original works of the most important economists they will meet such as David Hume, Adam Smith, David Ricardo, Karl Marx, William Stanley Jevons, Alfred Marshall, John Maynard Keynes, Milton Friedman and possibly others. Students will be encouraged to treat this as a research course in which they will be expected to show initiative in finding and using relevant sources. The first lecture will discuss certain aspects of the course, what is expected of students, what they are likely to learn and the different approaches to the subject they will come across."
+  },
+  {
+    "courseCode": "EC3393",
+    "courseName": "Comparative Economic Systems",
+    "about": "This course defines, describes, and analyses the underlying concepts and characteristic features of modern economic systems. It provides students with tools to understand and compare economic systems in today's rapidly changing world, especially the transition economies."
+  },
+  {
+    "courseCode": "EC3394",
+    "courseName": "Economics and Psychology",
+    "about": "This course discusses how findings and insights from psychology can be incorporated formally and rigorously into economics to improve its descriptive and predictive powers. It will also discuss the implications for policymakers. The course does not require any background in psychology but it does assume that the students have had rigorous training in microeconomics, macroeconomics, and econometrics."
+  },
+  {
+    "courseCode": "EC3395",
+    "courseName": "Economics and Ethics",
+    "about": "In this course, we examine the interaction between economics and ethics along several dimensions. We uncover the ethical underpinnings of economics as commonly taught and practiced in its selection of topics, measurements and principles. We examine how incorporating ethical motivations in individual decision‐making enriches economic models and explains important features in modern economies. We also look at how economics influences the value systems of participants in the economic system. Current issues in which economic considerations appear to be in conflict with ethics will be discussed."
+  }
+]

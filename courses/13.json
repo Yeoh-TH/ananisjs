@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4351HM",
+    "courseName": "Public Economics",
+    "about": "This course equips students with analytical and empirical tools to understand why the government intervene in the economy and through which mechanism this intervention takes place. We analyse the trade-off faced by the government in designing various public policies, e.g. taxes and subsidies, social protection programs, public good provisions, environmental protection, and healthcare. Theoretical tools are deployed to understand the decision-making process by economic actors and to predict how will they react to the policies. Careful empirical analyses using state-of-the-art methods is discussed to assess these theoretical predictions using the data available in the field."
+  },
+  {
+    "courseCode": "EC4352",
+    "courseName": "Singapore Economy: Practice and Policy",
+    "about": "An honours course that covers the application of macro and micro economics to address practical real world economic questions facing Singapore. It makes use of a wide range of advanced economic tools and approaches, and shows how to apply these to practical issues."
+  },
+  {
+    "courseCode": "EC4352HM",
+    "courseName": "Singapore Economy: Practice and Policy",
+    "about": "An honours course that covers the application of macro and micro economics to address practical real world economic questions facing Singapore. It makes use of a wide range of advanced economic tools and approaches, and shows how to apply these to practical issues."
+  },
+  {
+    "courseCode": "EC4353",
+    "courseName": "Health Economics",
+    "about": "This course is designed to provide overview of the economics of health and medical care. It examines the roles of hospitals, physicians, and health insurance, the determinants of health, and institutional features of health care system. Students learn how to apply economic and econometric tools to analyse them and discuss related public policy."
+  },
+  {
+    "courseCode": "EC4353HM",
+    "courseName": "Health Economics",
+    "about": "This course is designed to provide overview of the economics of health and medical care. It examines the roles of hospitals, physicians, and health insurance, the determinants of health, and institutional features of health care system. Students learn how to apply economic and econometric tools to analyse them and discuss related public policy."
+  },
+  {
+    "courseCode": "EC4354",
+    "courseName": "Economics of Education",
+    "about": "This course uses microeconomic theories and models to understand and examine a range of issues related to education and education policy. Major topics studied include how and why individuals make decisions to invest in education, the variety of factors that influence student performance and outcomes, and the effects of various educational reforms."
+  },
+  {
+    "courseCode": "EC4354HM",
+    "courseName": "Economics of Education",
+    "about": "This course uses microeconomic theories and models to understand and examine a range of issues related to education and education policy. Major topics studied include how and why individuals make decisions to invest in education, the variety of factors that influence student performance and outcomes, and the effects of various educational reforms."
+  },
+  {
+    "courseCode": "EC4355",
+    "courseName": "Economics of Ageing",
+    "about": "The course covers the theories and empirics of economics of ageing. There are three segments. The first segment introduces the concepts of population ageing and economic models incorporating effects of aging. The second segment equips students with methodology and tools to approach the topic on ageing. The last segment highlights the economic impacts of ageing, in terms of economic growth, fiscal pressures and sustainability, pension analyses and health financing. With reference to Singapore’s context, this course will examine policy options available to mitigate the effects of ageing, including their trade-offs."
+  },
+  {
+    "courseCode": "EC4355HM",
+    "courseName": "Economics of Ageing",
+    "about": "The course covers the theories and empirics of economics of ageing. There are three segments. The first segment introduces the concepts of population ageing and economic models incorporating effects of aging. The second segment equips students with methodology and tools to approach the topic on ageing. The last segment highlights the economic impacts of ageing, in terms of economic growth, fiscal pressures and sustainability, pension analyses and health financing. With reference to Singapore’s context, this course will examine policy options available to mitigate the effects of ageing, including their trade-offs."
+  },
+  {
+    "courseCode": "EC4361",
+    "courseName": "Big data and Labour Market Analysis",
+    "about": "This course aims to train students to how use big data to analyse advanced labour market issues. Issues discussed include the impacts of the recent technology improvements on labour supply and labour demand; the effects of minimum wage on employment; labour market discrimination; theory and recent developments on income wage and wealth inequality and intergenerational mobility. Students learn current econometric and theoretical methods used in applied microeconomics and how to apply these methods in analysing the issues that they are interested in."
+  }
+]

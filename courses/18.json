@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4880AHM",
+    "courseName": "Topics in Economics: Economics of Careers",
+    "about": "This course uses microeconomics to study the economics of careers, focusing on university graduates. It will include discussions of occupational choice, investment in human capital, gender considerations, inter-firm mobility, mobility in hierarchies, team production and matching, specialization and the division of labor, cognitive versus communication skills, incentives, commitment and meetings."
+  },
+  {
+    "courseCode": "EC4880HM",
+    "courseName": "Topics in Economics",
+    "about": "This course is designed to cover selected topics in economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4881",
+    "courseName": "Topics in Econometrics",
+    "about": "This course is designed to cover selected topics in econometrics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4881HM",
+    "courseName": "Topics in Econometrics",
+    "about": "This course is designed to cover selected topics in econometrics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4882",
+    "courseName": "Topics in Applied Economics",
+    "about": "This course is designed to cover selected topics in Applied Economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4882HM",
+    "courseName": "Topics in Applied Economics",
+    "about": "This course is designed to cover selected topics in Applied Economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4883",
+    "courseName": "Topics in Economic Policy",
+    "about": "This course is designed to cover selected topics in economic policy. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4883HM",
+    "courseName": "Topics in Economic Policy",
+    "about": "This course is designed to cover selected topics in economic policy. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC5101",
+    "courseName": "Microeconomic Theory",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory. It is the first of two courses (the other being EC6101) in the core microeconomics sequence of the economics doctoral programme. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra, multivariate calculate and real analysis, and be capable of understanding and producing mathematically rigorous proofs."
+  },
+  {
+    "courseCode": "EC5101R",
+    "courseName": "Microeconomic Theory",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory. It is the first of two courses (the other being EC6101) in the core microeconomics sequence of the economics doctoral programme. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra, multivariate calculate and real analysis, and be capable of understanding and producing mathematically rigorous proofs."
+  }
+]

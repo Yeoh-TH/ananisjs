@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "ECA5333",
+    "courseName": "Financial Markets & Portfolio Management",
+    "about": "This course is to offer a broad overview of financial assets traded in the money, options, and stock markets. It includes valuation of bonds and securities, analysis of options and futures contracts, asset pricing models and some applications."
+  },
+  {
+    "courseCode": "ECA5334",
+    "courseName": "Corporate Finance",
+    "about": "This course provides a theoretical and practical treatment of corporate financial theory for students who have completed an introductory course in financial economics. Topics covered in this course will include: an overview of financial management; comparisons of financial and real investment; capital budgeting and valuing real assets and real options; risk and return of assets; capital structure and dividend policy, and mergers and acquisitions; applications of portfolio management techniques in corporate finance."
+  },
+  {
+    "courseCode": "ECA5335",
+    "courseName": "Derivative Securities",
+    "about": "The course provides an in-depth analysis of the theories and models that are essential to the understanding of contingent claims. The course covers topics on mathematics of financial derivatives, stochastic models of securities price movements, Black-Scholes analysis and risk-neutral valuation, analytical and numerical procedures for various option-embedded products. Students taking this course are expected to have some basic knowledge of options and futures."
+  },
+  {
+    "courseCode": "ECA5337",
+    "courseName": "Applied Financial Economics",
+    "about": "The course studies how trading takes place in financial markets. We cover theoretical models and the associated empirical analysis employing game theory and econometric theory. We first analyse the movement of security prices by time series models. Second, we investigate various trading strategies adopted by market participants. To understand increasingly popular computerized trading, we cover programming and econometric software such as Excel VBA and R. Then, we examine three main types of theoretical models of trading: inventory models, sequential trading models, and strategic trading models. Finally, we study how trading rules and institutional details may lead to different trading processes."
+  },
+  {
+    "courseCode": "ECA5341",
+    "courseName": "International Trade & Finance",
+    "about": "This course develops the analytical tools required for understanding various issues that arise in the international economy. It is divided broadly into two sections, the first focusing on the real side of the economy while the second introduces money, covering upon economy macroeconomics. The emphasis in this course is to teach the workhorse models of the discipline, with reference to the empirical data, so that the student will have the ability to apply the tools to conduct research."
+  },
+  {
+    "courseCode": "ECA5342",
+    "courseName": "Advanced International Trade",
+    "about": "This course undertakes an in-depth study of topics in international trade. The topics include the gains from trade, the determinants of comparative advantage, the effects of trade on the income distribution, gravity equations, firm heterogeneity, multinational enterprises, and trade policy. The course will cover the theoretical models, recent empirical evidence, and current events to introduce students to the core analytical tools that trade economists use. These tools are relevant for developing a critical understanding of the wide range of issues and debates faced in the global economy, especially as international trade has come under increasing public and political scrutiny."
+  },
+  {
+    "courseCode": "ECA5343",
+    "courseName": "Advanced International Finance",
+    "about": "The goal of this course is to provide students with an in-depth knowledge of topics in international finance. The course will cover the current account and balance of payments accounting; inter-temporal trade; the determination of exchange rates; monetary and fiscal policy under fixed and flexible exchange rates; several major puzzles in international finance. In addition to providing analytical tools, this course also covers a number of relevant current issues: sovereign default, international financial crisis, and safe assets."
+  },
+  {
+    "courseCode": "ECA5351",
+    "courseName": "Public Finance",
+    "about": "The main objective of the course is to gain appreciation of how economic theory can be used to analyse both the individual components of the fiscal system, such as effects of various taxes and expenditures, as well as the size and the behaviour of the government sector itself. The course encompasses the traditional, public choice and supply side approaches. While the main focus is on partial equilibrium analysis, wherever feasible or relevant, e.g. in incidence analysis, a general equilibrium approach is also included. The theory of social choice is also discussed."
+  },
+  {
+    "courseCode": "ECA5371",
+    "courseName": "Economic Growth And Development",
+    "about": "This graduate course on economic growth and development is organised into three parts. Part 1 will survey alternative theories and approaches to economic growth and development. Part 2 will focus on development problems and strategies planning to poverty and income distribution, unemployment and rural-urban migration, agriculture, industry, trade and foreign resources. Part 3 will offer analysis of the development experiences of selected countries in ASEAN and East Asia."
+  },
+  {
+    "courseCode": "ECA5372",
+    "courseName": "Big Data Analytics and Technologies",
+    "about": "This course covers the concepts of big data, analytics and technologies. The main goal aims at managing and analysing a set of big data. Big data differs from traditional data, as the nature of big data is massive, unstructured, granular, and heterogeneous. Big data is produced by various digital resources and domains including smart phones with multiple sensors, a variety of digital media produced by various social media, and billions of on‐line financial transactions. The topics of this course covers big data scalability and process, infrastructure, and analytics using Hadoop, HBase, MapReduce, R, in‐database analytics, mining of data streams, etc."
+  }
+]

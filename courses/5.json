@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC3101",
+    "courseName": "Microeconomic Analysis II",
+    "about": "This course is a continuation of the foundation course on microeconomics. It is designed to equip students with the standard tools and techniques to analyze microeconomic issues and to prepare them to access higher level courses that utilize microeconomic analysis. The course begins with a review of several foundation topics on consumer and producer theory covered in the prerequisite course, i.e. EC2101. It then moves on to discuss the general equilibrium model, whereby consumers and producers are put together in a general equilibrium framework. After that, it covers choice over time, i.e. inter-temporal choice and choices over different states of the world, i.e. choices under uncertainty. It then continues with game theory. This topic will be discussed extensively. Coverage will include various solution concepts for one-shot games and sequential move games. Applications of the theory on the issues of oligopolistic competition, entry and entry prevention, and network economics will receive a great deal of attention. Finally, the course ends with the asymmetric information, i.e. moral hazard and adverse selection and its application on the internal organisation of the firm. Throughout the course, empirical observations and real-life cases pertaining to the issues discussed in this course are presented."
+  },
+  {
+    "courseCode": "EC3102",
+    "courseName": "Macroeconomic Analysis II",
+    "about": "This course follows up on Macroeconomics I (EC2102). We review consumption and investment theories, and study the determinants of money demand and supply. Aggregate Supply functions under differing assumptions regarding labour-market clearing and price expectations (rational or adaptive) are derived next, and combined with the Aggregate Demand function to study policy and other effects. We next examine the expectations-augmented Phillips Curve, and simple inflation-unemployment dynamics. We also study further policy issues (time inconsistency, Ricardian Equivalence, profit-sharing), open-economy macroeconomics (the Mundell-Fleming model), and simple growth theory (the Solow model and the AK endogenous growth model)."
+  },
+  {
+    "courseCode": "EC3303",
+    "courseName": "Econometrics I",
+    "about": "Econometrics combines economic theory with mathematical and statistical tools to provide estimates that help answer important economic questions. This course will focus on the theoretical underpinnings, practical implementation and interpretation of results from the multiple regression model in cross-sectional data settings. It will also introduce students to panel data, fixed effects regression, and instrumental variables regression."
+  },
+  {
+    "courseCode": "EC3304",
+    "courseName": "Econometrics II",
+    "about": "This course builds on earlier courses on econometrics and statistics such as EC2303 and EC3303. It will cover a range of econometric methods used for analyzing economic data in microeconomic and macroeconomic applications. Whilst there will be some theoretical discussions, the main aim of the course outcome is for students to be able to apply econometrics techniques in practical situations, independently, using STATA."
+  },
+  {
+    "courseCode": "EC3305",
+    "courseName": "Programming Tools for Economics",
+    "about": "This course focuses on teaching programming tools and econometric software for economics. The aim is for students to master basic programming skills and to know how to use broadly used econometrics software. It will be a \"hands-on\" course during which students will learn to explore, modify, manage, and analyze data. They will also learn how to learn by themselves skills that will not be covered in class. At the end of the course, students will be able to produce a given analysis starting from any type of raw data. Applications will cover several fields of applied economics."
+  },
+  {
+    "courseCode": "EC3305R",
+    "courseName": "Economic Data Analysis with R Programming",
+    "about": "This course focuses on teaching programming tools to transform and explore economic data or data in general using the R software. The students will learn different data structures, conditional statement, loops, function writing, and different popular and powerful packages in R so that they are able to write their own codes and to use packages’ tools to subset and manipulate the data, and build different econometric models. They will apply the acquired knowledge to real-life data problems."
+  },
+  {
+    "courseCode": "EC3312",
+    "courseName": "Game Theory & Applications to Economics",
+    "about": "This course introduces students in economics and other social sciences to game theory, a theory of interactive decision making. This course provides students with the basic solution concepts for different types of non-cooperative games, including static and dynamic games under complete and incomplete information. The basic solution concepts that this course covers are Nash equilibrium, subgame perfect equilibrium, Bayesian equilibrium, and perfect Bayesian equilibrium. This course emphasizes the applications of game theory to economics, such as duopolies, auctions, and bargaining."
+  },
+  {
+    "courseCode": "EC3314",
+    "courseName": "Mathematics for Economists",
+    "about": "The course continues from EC2104. Topics include more advanced mathematical tools and techniques for economic analysis such as static optimization and comparative statics, dynamic systems and dynamic optimization."
+  },
+  {
+    "courseCode": "EC3322",
+    "courseName": "Industrial Organisation I",
+    "about": "This course considers the behaviour of firms in a market economy. It has two parts. One - the basic theory part - considers how firms behave under different market structures. The other part is policy-oriented. It applies tools from the basic theory part to everyday problems and scenarios and tries to assess market efficiency and effects of possible intervention by the government or regulatory agencies. The two parts proceed simultaneously. Real-life problems or scenarios are introduced and while discussing them the required theory is developed. Students must be able to take derivatives and solve optimization problems and think critically in a logical manner."
+  },
+  {
+    "courseCode": "EC3332",
+    "courseName": "Money and Banking I",
+    "about": "This course focuses on the economic analysis of the following: (1) the structure and role of financial institutions, (2) tools and conduct of monetary policy, including monetary theory. Topics include the role of money, debt and equity; financial institutions and markets; regulation; financial crises; interest rates; commercial bank operations; the money supply process; theories of money demand; conduct of monetary policy and its role in different macroeconomic frameworks: international role of money; monetary policy in Singapore. As financial activities and events affect our everyday lives, this course should be of interest to a wide variety of students."
+  }
+]

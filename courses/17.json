@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4399HM",
+    "courseName": "Behavioural Public Policy",
+    "about": "The aim of this course is to highlight the most important areas of policy analysis in which insights from behavioural economics have fruitfully been applied. It discusses the underlying behavioural theory, and shows how this can be applied to policy analysis. A strong focus of the course is to outline methods and discuss results that focus on empirically testing and quantifying non-standard motives. We also discuss how such policies can be piloted and evaluated within an evidence-based policy framework. The course also showcases how behavioural insights are used in public policy for Singapore."
+  },
+  {
+    "courseCode": "EC4401",
+    "courseName": "Honours Thesis",
+    "about": "For this course, students are required to write a scholarly report of not more than 40 typed pages (including bibliography and appendices) on current economic issues, or on theory or methodology in economics based on their research. Please register EC4401 manually with the Department. Please refer to http://www.fas.nus.edu.sg/ec s/ for more information on the EC major requirement."
+  },
+  {
+    "courseCode": "EC4401HM",
+    "courseName": "Honours Thesis",
+    "about": "For this course, students are required to write a scholarly report of not more than 40 typed pages (including bibliography and appendices) on current economic issues, or on theory or methodology in economics based on their research. Please register EC4401HM manually with the Department. Please refer to http://www.fas.nus.edu.sg/ec s/ for more information on the EC major requirement."
+  },
+  {
+    "courseCode": "EC4501",
+    "courseName": "Economics and Computation",
+    "about": "The economic environments in practice are often too complex to be characterized in closed forms. This course will introduce several important tools from computer science for helping us understand how simple mechanisms perform in complex strategic environments, and how to design good mechanisms with robust guarantees. Several important topics in this domain include auctions, contracts, learning agents, and fair division."
+  },
+  {
+    "courseCode": "EC4501HM",
+    "courseName": "Economics and Computation",
+    "about": "The economic environments in practice are often too complex to be characterized in closed forms. This course will introduce several important tools from computer science for helping us understand how simple mechanisms perform in complex strategic environments, and how to design good mechanisms with robust guarantees. Several important topics in this domain include auctions, contracts, learning agents, and fair division."
+  },
+  {
+    "courseCode": "EC4660",
+    "courseName": "Independent Study",
+    "about": "The Independent Study course is designed to enable the student to explore an approved topic within the discipline in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Honours Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "EC4660HM",
+    "courseName": "Independent Study",
+    "about": "The Independent Study course is designed to enable the student to explore an approved topic within the discipline in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Honours Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "EC4753",
+    "courseName": "Department Exchange Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "EC4880",
+    "courseName": "Topics in Economics",
+    "about": "This course is designed to cover selected topics in economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC4880A",
+    "courseName": "Topics in Economics: Economics of Careers",
+    "about": "This course uses microeconomics to study the economics of careers, focusing on university graduates. It will include discussions of occupational choice, investment in human capital, gender considerations, inter-firm mobility, mobility in hierarchies, team production and matching, specialization and the division of labor, cognitive versus communication skills, incentives, commitment and meetings."
+  }
+]

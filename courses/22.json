@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC5361",
+    "courseName": "Labour Economics",
+    "about": "Labour economics is a major area in economics and its importance to the Singapore economy need not be overemphasized. It is one of the largest and essential fields in economics. It studies the decision of everyday life, especially how people earn a living. It helps students to construct logical, internally consistent arguments concerning economic variables, and apply constructed models into real world. The course is offered in all U.S. top economics department. We would be able to fill the gap by offering the course to our graduate students. These courses cater to both coursework students and masters and PhD students who want do their research in labor related topics."
+  },
+  {
+    "courseCode": "EC5361R",
+    "courseName": "Labour Economics",
+    "about": "Labour economics is a major area in economics and its importance to the Singapore economy need not be overemphasized. It is one of the largest and essential fields in economics. It studies the decision of everyday life, especially how people earn a living. It helps students to construct logical, internally consistent arguments concerning economic variables, and apply constructed models into real world. The course is offered in all U.S. top economics department. We would be able to fill the gap by offering the course to our graduate students. These courses cater to both coursework students and masters and PhD students who want do their research in labor related topics."
+  },
+  {
+    "courseCode": "EC5372",
+    "courseName": "Growth Theory",
+    "about": "This course introduces several important economic growth models. The main focuses will be on studying the underlying sources of economic growth and analyzing how government policies influence the growth process. Major topics include exogenous growth models, endogenous growth models with capital accumulation, technological progress through R & D and growth, growth models with learning-by-doing, diffusion of technology and growth, growth in open economy, and empirical studies of economic growth."
+  },
+  {
+    "courseCode": "EC5383",
+    "courseName": "Economics of the Environment",
+    "about": "This course provides a rigorous and comprehensive coverage of environmental and natural resource economics. The main objective of the course is to illustrate how the study of mainstream economics needs to be reoriented in the light of the following premises: the natural environment is the core of any economy and economic sustainability cannot be attained without environmental sustainability. The course is intended to equip participants with introductory skills that would enable the analyses of environmental and economic policy issues."
+  },
+  {
+    "courseCode": "EC5386",
+    "courseName": "Issues in Port Economics",
+    "about": "The rapid process of globalisation over the last decade has had pervasive effects on global shipping and logistics. This could not occur without creating profound impact on the way ports are developed, operated and managed, from providing simple ship shelters and warehouse services to much more complex multimodal terminal services, from monopoly to competition, and from state government-owned to local private corporations. Port Economics taught at graduate level tudies key topics in port management in depth and provides students with analytical and quantitative analysis tools that are essential to research and making decisions related to port operation, management and policy formulation."
+  },
+  {
+    "courseCode": "EC5386R",
+    "courseName": "Issues in Port Economics",
+    "about": "The rapid process of globalisation over the last decade has had pervasive effects on global shipping and logistics. This could not occur without creating profound impact on the way ports are developed, operated and managed, from providing simple ship shelters and warehouse services to much more complex multimodal terminal services, from monopoly to competition, and from state government-owned to local private corporations. Port Economics taught at graduate level tudies key topics in port management in depth and provides students with analytical and quantitative analysis tools that are essential to research and making decisions related to port operation, management and policy formulation."
+  },
+  {
+    "courseCode": "EC5387",
+    "courseName": "Issues in Maritime and Shipping Economics",
+    "about": "This course is designed to provide an in-depth insight into selected specific issues that are of concern to maritime and port industry as well as to policy makers. The issues covered include shipping markets, shipping networks, increasing ship sizes, cabotage, freight determination, port choice, efficiency measurements, maritime safety, maritime hub strategy and green maritime logistics."
+  },
+  {
+    "courseCode": "EC5387R",
+    "courseName": "Issues in Maritime and Shipping Economics",
+    "about": "This course is designed to provide an in-depth insight into selected specific issues that are of concern to maritime and port industry as well as to policy makers. The issues covered include shipping markets, shipping networks, increasing ship sizes, cabotage, freight determination, port choice, efficiency measurements, maritime safety, maritime hub strategy and green maritime logistics."
+  },
+  {
+    "courseCode": "EC5660",
+    "courseName": "Independent Study",
+    "about": "Independent research plays an important role in graduate education. The Independent Study course is designed to enable the student to explore an approved topic in Economics in depth. The student should approach a lecturer to work out an agreed topic, readings, and assignments for the course. A formal, written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. Head's and/or Graduate Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and must be worked out between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "EC5880",
+    "courseName": "Topics in Economics",
+    "about": "This course is designed to cover selected topics in economics. The topics covered will be dependent on the interest and specialities of regular or visiting staff in the Department."
+  }
+]

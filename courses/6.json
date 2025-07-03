@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC3333",
+    "courseName": "Financial Economics I",
+    "about": "This course is designed to introduce students to certain areas of financial economics. It attempts to develop a theoretical foundation for choice under uncertainty, portfolio analysis and equilibrium asset pricing models. A considerable portion of the course will also be devoted to the fixed-income securities and derivative securities. Since this is an economics course in a liberal arts and sciences setting, we will emphasize economic concepts whenever possible, and spend time on the intellectual and economic development of investment analysis."
+  },
+  {
+    "courseCode": "EC3342",
+    "courseName": "International Trade I",
+    "about": "International trade is about how nations interact through trade of goods and services. This course focuses on the real transactions across borders (i.e., those transactions that involve a physical movement of goods or a tangible commitment of economic resources), such as the pattern of trade, gains from trade, and trade volume."
+  },
+  {
+    "courseCode": "EC3343",
+    "courseName": "International Finance I",
+    "about": "This course deals with the theory and practice of international macroeconomics and finance. The objective of this course is to give students a theoretical framework to think about a wide variety of current issues in international finance: current account deficit, global imbalances, exchange rate determination, monetary policy in an open economy setting, and global financial crisis in 2008."
+  },
+  {
+    "courseCode": "EC3351",
+    "courseName": "Public Finance",
+    "about": "This course provides an introduction to the economic analysis of the government sector using microeconomic tools. Principles and policies concerning both taxation and expenditure are covered. In particular, the effects of various fiscal arrangements on efficiency in resource allocation and on equity are analysed. The focus is on developing analytical tools to evaluate public policy proposals, particularly as they relate to Singapore's budgetary process."
+  },
+  {
+    "courseCode": "EC3361",
+    "courseName": "Labour Economics I",
+    "about": "This course employs the analytical tools of economics to provide a better understanding of the workings and outcomes of labour markets. It applies economic theory to analyze and predict the behaviour of and relationship between labour market participants; to understand the causes of important labour market trends and developments; and to discuss and evaluate policies affecting labour services. Major topics covered include the theory of individual labour supply, labour demand, economics of education, training and migration, trade unions and collective bargaining, economics of personnel, pay determination and productivity."
+  },
+  {
+    "courseCode": "EC3362",
+    "courseName": "Population Economics",
+    "about": "The course provides students with a general knowledge on various aspects of the economics of population. It commences with a discussion of basic demographic tools and then takes up topics in population analysis of interest to economists. Topics to be covered include: demographic transition, Malthusian theory, the economic determinants of fertility and migration, population growth and economic growth, optimum population, and the economics of ageing. The course is for students with strong microeconomic background and with interest in the economics of population."
+  },
+  {
+    "courseCode": "EC3371",
+    "courseName": "Development Economics I",
+    "about": "This course will introduce students to the economics of developing countries. The first three lectures will focus on principles and concepts of development. The second part of the course will provide an overview of theories of development. The third part will examine development strategies and policies designed to address issues of growth and development and will, in this instance, focus on the development experiences of selected Asia-Pacific economies. This segment of the course will provide students with an appreciation of the development problems, possibilities and prospects in these regional economies."
+  },
+  {
+    "courseCode": "EC3373",
+    "courseName": "Asean Economies",
+    "about": "This course analyses the economic development experiences of the ASEAN economies in post-war years with emphasis on the role of ASEAN economic cooperation. Major topics covered include agricultural and rural development, industrialisation, international trade, resource transfers, development of local capital, ASEAN's international economic relations and future prospects for ASEAN growth and economic cooperation."
+  },
+  {
+    "courseCode": "EC3374",
+    "courseName": "Economy of Modern China II",
+    "about": "The course aims to help students understand certain key contemporary issues in the Chinese economy, particularly those relating to the process of its transition from a centrally planned closed economy to a market-based economy open to international trade. Students are expected to develop a comprehensive and critical perspective of China's economic transition and its impact on the rest of the world economy."
+  },
+  {
+    "courseCode": "EC3375",
+    "courseName": "Economy and Business of Japan and Korea",
+    "about": "This course examines economic miracles of Japan and Korea and their central business organizations, keiretsu and chaebols, that brought the success. It then analyzes how they responded to the challenges of the transition from catching‐up economies to mature economies, and how their business organizations functioned in the transition process."
+  }
+]

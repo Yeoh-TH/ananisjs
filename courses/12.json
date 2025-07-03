@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC4332HM",
+    "courseName": "Money and Banking II",
+    "about": "Topics include recent developments in monetary theory and policies, rational expectations, demand for money-econometric analysis and empirical studies, the role of money in general equilibrium, a framework for the determination of money supply, issues in monetary policy such as money neutrality, rules versus discretion, policy credibility, exchange rate determination, monetary policy co-ordination, theories of interest rate determination and structure, credit rationing, issues in bank management, financial markets and instruments, bank regulations, internationalization of banking, and monetary policy and foreign exchange management in Singapore."
+  },
+  {
+    "courseCode": "EC4333",
+    "courseName": "Financial Economics II",
+    "about": "The course provides an in-depth analysis of the theories and models that are essential to the understanding of financial decision making. The course covers topics on decision making under certainty and uncertainty, no-arbitrage pricing theory, mean-variance portfolio selection theory, capital asset pricing model, efficient market hypothesis, mathematics of derivative securities, pricing theory and applications of contingent claims such as standard options, mortgage-backed securities and interest-rate instruments."
+  },
+  {
+    "courseCode": "EC4333HM",
+    "courseName": "Financial Economics II",
+    "about": "The course provides an in-depth analysis of the theories and models that are essential to the understanding of financial decision making. The course covers topics on decision making under certainty and uncertainty, no-arbitrage pricing theory, mean-variance portfolio selection theory, capital asset pricing model, efficient market hypothesis, mathematics of derivative securities, pricing theory and applications of contingent claims such as standard options, mortgage-backed securities and interest-rate instruments."
+  },
+  {
+    "courseCode": "EC4334",
+    "courseName": "Financial Market Microstructure",
+    "about": "Market microstructure studies how trading takes place in financial markets. The course will cover theoretical models and the associated empirical analysis employing game theory and econometric theory. We first analyse the movement of security prices by time series models. Second, we investigate various trading strategies adopted by market participants. We then examine three main types of theoretical models of trading: inventory models, sequential trading models, and strategic trading models. Finally, we study how trading rules and institutional details may lead to different trading processes."
+  },
+  {
+    "courseCode": "EC4334HM",
+    "courseName": "Financial Market Microstructure",
+    "about": "Market microstructure studies how trading takes place in financial markets. The course will cover theoretical models and the associated empirical analysis employing game theory and econometric theory. We first analyse the movement of security prices by time series models. Second, we investigate various trading strategies adopted by market participants. We then examine three main types of theoretical models of trading: inventory models, sequential trading models, and strategic trading models. Finally, we study how trading rules and institutional details may lead to different trading processes."
+  },
+  {
+    "courseCode": "EC4342",
+    "courseName": "Economics in a Globalized World",
+    "about": "This course applies some of the 'core' theory from the pure theory of trade and international finance to some topics of interest in the international arena. Topics might include: the gains from trade revisited, endogenous growth and trade policy, the 'new' protectionism, multinational corporations and the transfer of technology, the 'new' regionalism, reforming the international financial architecture, predicting exchange rates movements, coping with international capital flows, the prospects for monetary integration in Asia, international money, the euro, and the internationalisation of the Singapore dollar, the international debt problem."
+  },
+  {
+    "courseCode": "EC4342HM",
+    "courseName": "Economics in a Globalized World",
+    "about": "This course applies some of the 'core' theory from the pure theory of trade and international finance to some topics of interest in the international arena. Topics might include: the gains from trade revisited, endogenous growth and trade policy, the 'new' protectionism, multinational corporations and the transfer of technology, the 'new' regionalism, reforming the international financial architecture, predicting exchange rates movements, coping with international capital flows, the prospects for monetary integration in Asia, international money, the euro, and the internationalisation of the Singapore dollar, the international debt problem."
+  },
+  {
+    "courseCode": "EC4343",
+    "courseName": "International Finance II",
+    "about": "The International Monetary System is the worldwide framework that facilitates cross-border flows of financial capital to finance investment and trade. Today’s system traces its roots to the late 19th century. Before World War I, major currencies were tied to gold, implying a system of fixed exchange rates without room for independent monetary policy. Today no major currency is tied to gold, and monetary policy is independent. Employing the tools presented in International Finance I, the course discusses how the system has operated throughout time and why it changed. The discussions are embedded in the economic context of the times."
+  },
+  {
+    "courseCode": "EC4343HM",
+    "courseName": "International Finance II",
+    "about": "The International Monetary System is the worldwide framework that facilitates cross-border flows of financial capital to finance investment and trade. Today’s system traces its roots to the late 19th century. Before World War I, major currencies were tied to gold, implying a system of fixed exchange rates without room for independent monetary policy. Today no major currency is tied to gold, and monetary policy is independent. Employing the tools presented in International Finance I, the course discusses how the system has operated throughout time and why it changed. The discussions are embedded in the economic context of the times."
+  },
+  {
+    "courseCode": "EC4351",
+    "courseName": "Public Economics",
+    "about": "This course equips students with analytical and empirical tools to understand why the government intervene in the economy and through which mechanism this intervention takes place. We analyse the trade-off faced by the government in designing various public policies, e.g. taxes and subsidies, social protection programs, public good provisions, environmental protection, and healthcare. Theoretical tools are deployed to understand the decision-making process by economic actors and to predict how will they react to the policies. Careful empirical analyses using state-of-the-art methods is discussed to assess these theoretical predictions using the data available in the field."
+  }
+]

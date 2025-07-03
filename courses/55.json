@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "PE4401E",
+    "courseName": "Honours Thesis",
+    "about": "This course requires students to conduct an independent research project on an approved topic at the intersection of Philosophy, Political Science, and Economics, under the supervision of a faculty member from the Economics Department. The research project, which is intended to be multidisciplinary, engaging the intellectual tools and insights from the disciplines of Philosophy, Political Science, and Economics, will be submitted as an Honours Thesis. The maximum length of the thesis is 10,000 words."
+  },
+  {
+    "courseCode": "PE4401EHM",
+    "courseName": "Honours Thesis",
+    "about": "This course requires students to conduct an independent research project on an approved topic at the intersection of Philosophy, Political Science, and Economics, under the supervision of a faculty member from the Economics Department. The research project, which is intended to be multidisciplinary, engaging the intellectual tools and insights from the disciplines of Philosophy, Political Science, and Economics, will be submitted as an Honours Thesis. The maximum length of the thesis is 12,000 words."
+  },
+  {
+    "courseCode": "PE4402E",
+    "courseName": "Research Internship Project",
+    "about": "This course requires PPE students to pursue a policy research internship with an external organization. Interested students must secure (i) a position in suitable organizations either full time in the vacation period or part time in a regular semester (ii) a workplace supervisor; and (iii) an academic supervisor. They will submit journal entries; reflection reports; a final research paper (4-5,000 words); and make an oral presentation. The course enables PPE students to apply their multidisciplinary academic learning to real world policy research while gaining work experience."
+  },
+  {
+    "courseCode": "PE4408E",
+    "courseName": "Research Internship Project",
+    "about": "This course requires PPE students to pursue a policy research internship with an external organization. Interested students must secure (i) a position in suitable organizations either full time in the vacation period or part time in a regular semester (ii) a workplace supervisor; and (iii) an academic supervisor. They will submit journal entries; reflection reports; a final research paper (4-5,000 words); and make an oral presentation. The course enables PPE students to apply their multidisciplinary academic learning to real world policy research while gaining work experience."
+  },
+  {
+    "courseCode": "PE4660E",
+    "courseName": "Independent Study",
+    "about": "The Independent Study course enables the student to explore an approved topic at the intersection of Philosophy, Political Science, and Economics in depth. The student should approach an Economics lecturer to identify a topic, readings, and assignments. A written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. The ISM Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and agreed between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "PE4660EHM",
+    "courseName": "Independent Study",
+    "about": "The Independent Study course enables the student to explore an approved topic at the intersection of Philosophy, Political Science, and Economics in depth. The student should approach an Economics lecturer to identify a topic, readings, and assignments. A written agreement is to be drawn up, giving a clear account of the topic, programme of study, assignments, evaluation, and other pertinent details. The ISM Coordinator's approval of the written agreement is required. Regular meetings and reports are expected. Evaluation is based on 100% Continuous Assessment and agreed between the student and the lecturer prior to seeking departmental approval."
+  },
+  {
+    "courseCode": "PE4751E",
+    "courseName": "Department Exchange Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "PE4752E",
+    "courseName": "Department Exchange Course",
+    "about": "Not Available"
+  },
+  {
+    "courseCode": "SSA2203",
+    "courseName": "Singapore’s Business History",
+    "about": "This module traces the business history of Singapore from its origins as an East India Company outpost, as an entrepot for regional and international trade routes to its current status as a global city and center for international finance and business. This module offers an introduction to business history and explores different case studies in the local context. These care studies range from 'rags to riches' stories of early migrant communities, popular local brands, and present day entrepreneurs. Major topics include: trading communities, commodities, networks and migration, entrepreneurship, business culture, heritage, globalization, state, politics and business."
+  },
+  {
+    "courseCode": "SSA2204",
+    "courseName": "Nation-Building in Singapore",
+    "about": "This module is about Singapore's emergence from British colonial rule and merger with Malaysia to independence and nation-building. It covers political events, the economy, education, national service, ethnic relations, and culture and national identity. Students are encouraged to think through issues central to these topics. The module is tailored for students in all Faculties at all levels."
+  }
+]

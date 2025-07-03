@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC5880R",
+    "courseName": "Topics in Economics",
+    "about": "Topics in Economics"
+  },
+  {
+    "courseCode": "EC5881",
+    "courseName": "Topics in Microeconomics",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory at the graduate level. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra and multivariate calculate; knowledge of real analysis will also be very helpful."
+  },
+  {
+    "courseCode": "EC5881R",
+    "courseName": "Topics in Microeconomics",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory at the graduate level. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra and multivariate calculate; knowledge of real analysis will also be very helpful."
+  },
+  {
+    "courseCode": "EC5882",
+    "courseName": "Topics in Macroeconomics",
+    "about": "This course introduces students to recent developments in growth theory and discusses their empirical relevance. Topics include sources of economic growth, cross-country income differences, neoclassical growth theory, human capital and growth, innovation and growth, finance and growth and trade and growth."
+  },
+  {
+    "courseCode": "EC5882R",
+    "courseName": "Topics in Macroeconomics",
+    "about": "This course introduces students to recent developments in growth theory and discusses their empirical relevance. Topics include sources of economic growth, cross-country income differences, neoclassical growth theory, human capital and growth, innovation and growth, finance and growth and trade and growth."
+  },
+  {
+    "courseCode": "EC5883",
+    "courseName": "Topics in Applied Economics",
+    "about": "The purpose of this course is designed to help students become comfortable and creative as economic researchers and modelers. The course covers microeconomic theories and its applications in various policy analyses. Topics include economic and econometric modeling, and empirical strategies in identifying causal relationship."
+  },
+  {
+    "courseCode": "EC5883R",
+    "courseName": "Topics in Applied Economics",
+    "about": "The purpose of this course is designed to help students become comfortable and creative as economic researchers and modelers. The course covers microeconomic theories and its applications in various policy analyses. Topics include economic and econometric modeling, and empirical strategies in identifying causal relationship."
+  },
+  {
+    "courseCode": "EC6101",
+    "courseName": "Advanced Microeconomic Theory",
+    "about": "As an essential course for economics PhD students, this course aims to equip them with the tools of modern microeconomic theory and prepare them to be independent researchers. As a subsequent course following EC5101, this course focuses on general equilibrium and welfare theory, game theory, and information economics."
+  },
+  {
+    "courseCode": "EC6102",
+    "courseName": "Advanced Macroeconomic Theory",
+    "about": "This course builds on EC5102 Macroeconomic Theory, and stresses the use of dynamic programming in the study of macroeconomic problems. The emphasis will be placed on building and analyzing models and analyzing existence, optimality and dynamic properties of equilibria. The theory of dynamic programming will be developed in some detail and be applied to macroeconomic issues such as economic growth (including multi-sector models and endogenous growth), economic fluctuations, recursive competitive equilibrium, search and matching models, design of optimal monetary and fiscal policies, neo-Keynesian models, and advanced topics in consumption, investment and asset pricing."
+  },
+  {
+    "courseCode": "EC6103",
+    "courseName": "Econometric Modelling and Applications II",
+    "about": "This is a core course for PhD students. It is aimed at providing a good training in econometric theory and applications. It covers some topics already covered in EC5103 but at a more theoretical level. Asymptotic theory, ML and GMM estimation, extremum estimators, non-linear models, simultaneous equations models are among the topics covered under this course."
+  }
+]

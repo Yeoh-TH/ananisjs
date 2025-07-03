@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "FMA1201D",
+    "courseName": "FS: Contemporary Issues in Trade Policy",
+    "about": "The freshman seminar will introduce students to current economic thoughts and their application to economic development and policy in an open economy. The course will cover specific issues in trade policy, FDI activities, foreign labour and the role of international organizations such as the IMF and World Bank. It will also discuss the importance and differences in economic systems (institutions) on economic development, with particular emphasis on Asia and South‐East Asian countries."
+  },
+  {
+    "courseCode": "FMA1201H",
+    "courseName": "FS: Australian Culture",
+    "about": "This freshman seminar will provide students with an opportunity to examine Australian Society and Culture through a study of literature, films, political structures, foreign policy, social movements, and popular music. Students will investigate what it means to be Australian and just what Australian culture might be."
+  },
+  {
+    "courseCode": "FMA1202D",
+    "courseName": "Taking Risks: Economics, Psychology, and Biology",
+    "about": "Risk taking lies at the heart of business and the economy. Biology, psychology, and economics are converging today into a unified discipline which can deliver a revolutionary approach to understanding how people take risk, to realize greater returns or for recreation. We shall begin with discussing economic models of risk taking incorporating psychological considerations and how they are tested in choice experiments. Beyond economic outcomes and psychological factors, evidence points to the role of biology, through genes, hormones, and neurochemicals, in modulating risk taking observed in the laboratory and in the field with important ramifications for the real world."
+  },
+  {
+    "courseCode": "FMA1204H",
+    "courseName": "FS: War Memories: From Anne Frank to Changi Prison",
+    "about": "This Freshman Seminar will give students the opportunity to analyse how controversies stemming from the Second World War have been understood, judged, and depicted. Course readings and discussions will focus on four events and their historical representation: the U.S. decision to deploy the atomic bomb in Hiroshima and Nagasaki, the Holocaust, the military strategy of bombing German civilian targets, and the Japanese occupation of Singapore. In this course, students will also develop essay writing and presentation skills."
+  },
+  {
+    "courseCode": "FMA1205H",
+    "courseName": "FS: Decolonization in the 20th Century",
+    "about": "This seminar introduces first‐year students to one of the most significant historical events in the global history of the past century: decolonization. The seminar’s topics include: empire and colonialism, resistance and collaboration, the Cold War, nationalism, issues following decolonization, and the legacy of colonialism. Through reading and discussing primary and secondary texts, this seminar aims to expose students to new arenas of research, and provide them an opportunity to learn skills for active and independent research at the university level."
+  },
+  {
+    "courseCode": "FMA1206H",
+    "courseName": "FS: Travel and the Historian",
+    "about": "The aim of this Freshman Seminar is to introduce students to the use of travel narratives as sources for historians. Students will be engage with different forms of travel and their productions to explore such themes as exploration, gender, race and culture. Working individually and in groups, students will have an opportunity to hone their research, writing and oral presentation skills."
+  },
+  {
+    "courseCode": "FMA1207H",
+    "courseName": "FS: Biopolitics",
+    "about": "How did the lives of human beings become objects of governance? Introduced by Michel Foucault in the 1970s, the concept of biopolitics has been one of the most critical tools in investigating the control and regulation of different levels of human life—from individual bodies to populations. Through examining the production and use of medical and scientific knowledge of human life in imperial, colonial, and national histories, this course explores historical processes in which human lives gradually came to be included in various practices of political power. Discussion topics include: race, gender/sexuality, public health and hygiene, population control, and eugenics."
+  },
+  {
+    "courseCode": "GEC1003",
+    "courseName": "Pirates, Oceans and the Maritime World",
+    "about": "Piracy, understood broadly as violence or crime at sea, is a present day phenomenon and yet one which has a history spanning centuries and across all the oceans of the world. From pirates to privateers, corsairs to raiders, maritime predators take various names and forms. This course explores the history of pirates and piracy. By examining case studies from the 1400s onwards and by placing pirates into the context of oceanic history and maritime studies, students will be able to demystify the popular images often associated with pirates."
+  },
+  {
+    "courseCode": "GEC1028",
+    "courseName": "Luck",
+    "about": "This course aims to highlight how luck has influenced and still influences several aspects of the world we live in. From the beginning of the universe, to our present-day lives, to the end of the universe, random events beyond anyone’s control continue to shape our fate. By exploring the various fields that luck manifests itself in, the course ultimately delves into the intriguingly precarious nature of existence."
+  },
+  {
+    "courseCode": "GEC1030",
+    "courseName": "Metropolis: The City in World History",
+    "about": "More people live in cities now than in any other point in history: how does this change human culture and civilisations? Cities tell a story of our world; they are a testament to humankind’s ability to reshape the environment in lasting ways. They reveal how we interact with the environment and with each other. Cities are created in many forms and for many reasons ranging from defense, religion and economic activity. Through case studies this course examines urban history, lived experiences and how city life has changed over time."
+  }
+]

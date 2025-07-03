@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "ECA5373",
+    "courseName": "The Singapore Economy",
+    "about": "This course provides an in-depth study of Singapore's economic structure and development strategies in the context of a changing global and regional economic environment. It examines the various policy options available based on economic principles and theories. Thereby the course provides an opportunity for the application of theoretical concepts to the analysis of the Singapore Economy. A basic knowledge of micro and macro economics and applied economics such as development, public finance and monetary economics are very useful."
+  },
+  {
+    "courseCode": "ECA5373R",
+    "courseName": "The Singapore Economy",
+    "about": "This module provides an in-depth study of Singapore's economic structure and development strategies in the context of a changing global and regional economic environment. It examines the various policy options available based on economic principles and theories. Thereby the course provides an opportunity for the application of theoretical concepts to the analysis of the Singapore Economy. A basic knowledge of micro and macro economics and applied economics such as development, public finance and monetary economics are very useful."
+  },
+  {
+    "courseCode": "ECA5374",
+    "courseName": "The Modern Chinese Economy",
+    "about": "This course aims to provide students with a basic understanding of the contemporary Chinese economic system and an analytical framework for the study of the modern Chinese economy. Through lecturing and class discussions on the literature, the students will develop the ability to comprehend the major theoretical and policy issues in China's economic development and transformation. They will also attain confidence in applying theoretical-quantitative approaches to the analysis of these issues."
+  },
+  {
+    "courseCode": "ECA5375",
+    "courseName": "Economic Growth in East Asia",
+    "about": "This course is designed to enhance understanding of economic growth by analysing the experience of East Asian countries. By looking at both common and specific factors across the countries and related theoretical issues, it attempts to provide students with both analytical and realistic view on development process. The major topics include catching-up debate, comparisons of Asian models, the role of the state, industrial and trade policy, foreign direct investment, globalisation, and the Asian financial crisis."
+  },
+  {
+    "courseCode": "ECA5376",
+    "courseName": "Auctions and Market Design",
+    "about": "Modern market design principles are creatively and increasingly improving a range of economic and other systems. This course will cover the principles behind the design of markets and how they are actually applied. The first part introduces the theory of auctions and discusses how auctions for radio spectrum licenses, internet key search words and advertisements, and eBay work. The second part covers other types of systems which include applications that are as diverse as allocation of environmental permits, systems for matching medical interns to hospitals, partner matching (e.g., marriage), and facilitating kidney exchange."
+  },
+  {
+    "courseCode": "ECA5377",
+    "courseName": "Behavioural Economics",
+    "about": "This couse aims to provide a rigorous study of the principles and methods of behavioural economics. Drawing heavily on psychological literature, experimental research and formal economic model, the course systematically explores important departures from predictions of the neoclassical model and investigates their implications on individuals, firms, and policy. Original academic journal articles will be used as the primary source for teaching and learning. Throughout the course, the emphasis will be on the derivation of economic models, exploration of experimental designs and methods, empirically testing results as well as the extrapolation of the findings on the non-standard motives."
+  },
+  {
+    "courseCode": "ECA5381",
+    "courseName": "Urban Economics",
+    "about": "The course provides an overview of key urban economic theories, including increasing return and spatial equilibrium, urban transportation and urban forms, housing choices and residential externalities, and urban growth and public finance. These theories are then applied to the analysis of urban challenges, such as urbanization, land‐use efficiency, housing affordability, and sustainable urban development."
+  },
+  {
+    "courseCode": "ECA5383",
+    "courseName": "Environmental Economics",
+    "about": "This course examines the economics behind environmental issues and problems and policies designed to address them. Topics are focused on valuation of nonmarket goods, cost‐benefit analysis, project selection, correcting market failures especially in the provision of public goods, the tragedy of the commons, and climate change."
+  },
+  {
+    "courseCode": "ECA5394",
+    "courseName": "Cultural Economics",
+    "about": ""
+  },
+  {
+    "courseCode": "ECA5395",
+    "courseName": "Political Economy of Globalisation",
+    "about": ""
+  }
+]

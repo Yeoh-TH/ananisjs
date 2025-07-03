@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC5102",
+    "courseName": "Macroeconomic Theory",
+    "about": "This course is designed to provide modern macroeconomic models which are essential in the study of economics at the graduate level. Three main parts of the course are growth theory, business cycle models, and the investigations of certain components in the aggregate demand. Topics under each part are wide-ranging: the Solow model, the infinite horizon model, overlapping generations model, and endogenous growth models are covered for the growth part. The business cycle models deal with real business cycles, the Lucas model, and New Keynesian models. Finally, consumption, consumption-based asset pricing models and investment are studied for the aggregate demand components."
+  },
+  {
+    "courseCode": "EC5102R",
+    "courseName": "Macroeconomic Theory",
+    "about": "This course is designed to provide modern macroeconomic models which are essential in the study of economics at the graduate level. Three main parts of the course are growth theory, business cycle models, and the investigations of certain components in the aggregate demand. Topics under each part are wide-ranging: the Solow model, the infinite horizon model, overlapping generations model, and endogenous growth models are covered for the growth part. The business cycle models deal with real business cycles, the Lucas model, and New Keynesian models. Finally, consumption, consumption-based asset pricing models and investment are studied for the aggregate demand components."
+  },
+  {
+    "courseCode": "EC5103",
+    "courseName": "Econometric Modelling and Applications I",
+    "about": "This is an introductory level econometrics core course for graduate students. It is the first of two courses (the other being EC6103) in the core econometrics sequence of the economics doctoral programme. Students are required to have background knowledge in econometrics at least at the level of EC3304 Econometrics II. The broad topics covered include mathematical (probability theory) and statistical prerequisites (matrix algebra and statistical inference), as well as standard estimation techniques (LS, IV, MLE, GMM techniques). This course is theoretical in nature. It intends to prepare PhD students for both theoretical and empirical research in economics."
+  },
+  {
+    "courseCode": "EC5103R",
+    "courseName": "Econometric Modelling and Applications I",
+    "about": "This is an introductory level econometrics core course for graduate students. It is the first of two courses (the other being EC6103) in the core econometrics sequence of the economics doctoral programme. Students are required to have background knowledge in econometrics at least at the level of EC3304 Econometrics II. The broad topics covered include mathematical (probability theory) and statistical prerequisites (matrix algebra and statistical inference), as well as standard estimation techniques (LS, IV, MLE, GMM techniques). This course is theoretical in nature. It intends to prepare PhD students for both theoretical and empirical research in economics."
+  },
+  {
+    "courseCode": "EC5104",
+    "courseName": "Mathematics for Economists",
+    "about": "This course will cover mathematical techniques used in economics. It is compulsory for PhD students in economics. The course focus is on real analysis, linear algebra, multivariate calculus, constrained optimisation, and probability theory."
+  },
+  {
+    "courseCode": "EC5104R",
+    "courseName": "Mathematics for Economists",
+    "about": "This course will cover mathematical techniques used in economics. It is compulsory for PhD students in economics. The module focus is on real analysis, linear algebra, multivariate calculus, constrained optimisation, and probability theory."
+  },
+  {
+    "courseCode": "EC5301",
+    "courseName": "Microeconomic Analysis",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory at the graduate level. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra and multivariate calculus; knowledge of real analysis will also be very helpful."
+  },
+  {
+    "courseCode": "EC5301R",
+    "courseName": "Microeconomic Analysis",
+    "about": "The purpose of this course is to provide students with an introduction to modern microeconomic theory at the graduate level. The course covers consumer theory, general equilibrium theory, and game theory. Knowledge of undergraduate economics is not essential for the course, but students are expected to be comfortable with linear algebra and multivariate calculus; knowledge of real analysis will also be very helpful."
+  },
+  {
+    "courseCode": "EC5303",
+    "courseName": "Econometric Analysis",
+    "about": "This is an introductory level econometrics core course for graduate students. Students are required to have background knowledge in econometrics at least at the level of EC3304 Econometrics II. The broad topics covered include mathematical (probability theory) and statistical prerequisites (matrix algebra and statistical inference), as well as standard estimation techniques."
+  },
+  {
+    "courseCode": "EC5303R",
+    "courseName": "Econometric Analysis",
+    "about": "This is an introductory level econometrics core course for graduate students. Students are required to have background knowledge in econometrics at least at the level of EC3304 Econometrics II. The broad topics covered include mathematical (probability theory) and statistical prerequisites (matrix algebra and statistical inference), as well as standard estimation techniques."
+  }
+]

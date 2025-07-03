@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC6104",
+    "courseName": "Advanced Mathematics for Economists",
+    "about": "This course covers a number of advanced mathematical techniques that are frequently used for solving dynamic optimisation problems in economics. Topics include calculus of variations, dynamic programming and optimal control theory. The emphasis would be placed on both mathematics and applications in economics. This course would carry four modular credits."
+  },
+  {
+    "courseCode": "EC6312",
+    "courseName": "Advanced Game Theory",
+    "about": "This is a comprehensive introduction of modern game theory at a PhD graduate level. Topics include strategic games, extensive games, incompleteinformation games, repeated games, interactive epistemology, mechanism design, implementation theory, and information economics."
+  },
+  {
+    "courseCode": "EC6313",
+    "courseName": "Topics in Econometrics",
+    "about": "This course is designed to train students in advanced econometric applications in various areas. This is a reading-intensive course; students are required to read a large volume of journal articles in the relevant areas and analyse them. Students can make requests to cover topics that are of interest to them. This is an ideal setting for Ph.D. students to try out their thesis research topics. Topics such as Bayesian econometrics, panel regression with unit-root time series, and macroeconometric modelling for forecasting and policy analyses are likely to be covered under this course."
+  },
+  {
+    "courseCode": "EC6314",
+    "courseName": "Advanced Time Series Analysis",
+    "about": "This is a Ph.D. level course. While it covers the content of EC5314/EC5214, more emphasis is laid on theory."
+  },
+  {
+    "courseCode": "EC6316",
+    "courseName": "Contract Theory and Applications",
+    "about": "This course aims to introduce students to modern economic principles, techniques and applications of contract theory in organizations and markets. Authorities want to design incentives such that interacting players, both internal and external, take decisions that further the organization's goals. In the marketplace competition from rivals often determine an organization’s internal incentives. Most of the interactions take place under asymmetric information environment about the players' actions and types. A prior, basic knowledge of game theory will be assumed for this course."
+  },
+  {
+    "courseCode": "EC6322",
+    "courseName": "Advanced Industrial Organisation",
+    "about": "This is a practical course for graduate students who are interested in applied microeconomics. Familiarity with empirical research or industrial organisation is not assumed a priori. The course takes a structural approach to study empirical problems in industrial organisation. The course aims to develop students’ understanding and scope of empirical research generally. Students will learn structural estimation techniques that can be applied more widely across fields such as labour, trade, environmental, marketing, information systems, etc."
+  },
+  {
+    "courseCode": "EC6332",
+    "courseName": "Advanced Money & Banking",
+    "about": "This PhD level course will cover two broad topics in the Money and Banking: 1) Monetary Policy (including Exchange Rate Policy) and Money Demand; and 2) Related Issues from the Banking Crises. First topic will cover some issues surrounding the behaviour of Money demand and its implications on the overall effectiveness of the monetary policy under different stages of economic developments. The second topic will survey issues emerging from the latest banking crisis in East Asia, such as structure of ownerships, regulations and the role of banking problems in the recent balance of payment crisis (capital account crisis) in East Asia."
+  },
+  {
+    "courseCode": "EC6342",
+    "courseName": "Advanced International Trade",
+    "about": "This course provides an in-depth study of the trade theories and models that are important in the analysis of policy issues relating to international trade. Some contemporary issues in the field of international trade will also be discussed. At the end of the course, the student should be able to master the basic theoretical framework and analytical tools necessary for the study of contemporary trade issues. Other than theory, the course also emphasizes the analysis of recent issues such as the new developments in the WTO, and the controversy of regional trade liberalisation."
+  },
+  {
+    "courseCode": "EC6343",
+    "courseName": "Advanced International Finance",
+    "about": "This course is mainly concerned with the operation of international financial markets, focusing on the on-shore and offshore banking systems, international capital flows, and restructuring international financial system. The intent is to investigate how to reduce the likelihood of financial panics and crisis in the international context. Theories developed in the field of international finance will be carefully studied, and policy issues concerning the recent world financial market turbulence will also be discussed. Students are required to write a major term paper concerning relevant issues."
+  },
+  {
+    "courseCode": "EC6351",
+    "courseName": "Advanced Public Finance",
+    "about": "This course will examine selected topics of Public Finance in greater depth. There are basically three sections. The first section examines welfare theorem, market successes, market failures and government success and government failures. The second section focuses on tax issues, tax reforms and tax challenges. The third section will examine financing of government expenditures on education, healthcare and old age."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "ECA5101",
+    "courseName": "Microeconomics",
+    "about": "This course is designed to provide students with a sound understanding of modern microeconomic theory. It will cover the aspects of microeconomic theory that are required to analyse contemporary economics issues and to create new models to explain the behaviour of individuals, firms, and markets, and to evaluate economic policies. The topics will include consumer and producer theories, analysis of risk and uncertainty, game theory and its applications in economics, general equilibrium, market failure and welfare economics. The course considers the problem of incomplete and asymmetric information in market interactions, including the issues of moral hazard, adverse selection, and signaling. The impact of government policies on economic activities will also be examined."
+  },
+  {
+    "courseCode": "ECA5102",
+    "courseName": "Macroeconomics",
+    "about": "This subject covers topics in modern Macroeconomic Theory and Policy at the advanced level. The emphasis will be laid on recent advances in the theories about long-term growth and short-term business cycle, and in the related empirical and policy debates. The growth theory includes neoclassical growth models (particularly the Ramsey and overlapping-generations models), and various endogenous growth models with knowledge spillovers, human capital and R&D investment. We also consider income distribution, convergence, income ranking, and population ageing in the growth models. The business cycle theory includes the real-business cycle model and various New Keynesian models. The policy issues include national debt, social security, and monetary policies. It helps students understand the frontier debates in macroeconomics."
+  },
+  {
+    "courseCode": "ECA5103",
+    "courseName": "Quantitative & Computing Methods",
+    "about": "This is an applications-oriented introductory level course for students who do not have a sufficient training in econometrics. Students who have already completed courses at this level can opt for higher level econometric courses. Students will be provided with hands-on training in computer software such as SAS, EViews and Excel. The course covers probability distributions and statistical inference, matrix algebra, simple and multiple linear regression models, diagnostic testing, dummy variable regressions, time series econometrics including cointegration and error correction models."
+  },
+  {
+    "courseCode": "ECA5304",
+    "courseName": "Machine Learning and Economic Forecasting",
+    "about": "This course provides an introduction to machine learning and data mining methods for economics problems. The course will explain the core concept of well‐known supervised learning algorithms including decision trees, neural networks, and support vector machines. Differences between these methods and econometrics methods will be discussed. This course will move on to explain unsupervised learning methods. Emerging topics, such as time series data mining, text mining or other methods for unstructured data mining, will also be covered. Examples, assignments, and the final project will be designed to help students learn using machine learning techniques to complement traditional econometrics analysis."
+  },
+  {
+    "courseCode": "ECA5305",
+    "courseName": "R Programming for Economists",
+    "about": "The course will introduce our economic students to practical approaches to handling all kinds of data using R programming language. Students will first learn how to code like a programmer and learn how to work with common data structures in R before expanding their skills to wrangling data, summarizing and visualizing the data, and addressing data quality problems. Then, we will explore different packages which are widely used and powerful for data manipulations. We expect the course to equip the students with relevant data analyzing skills using one of the most programming languages for work or further studies."
+  },
+  {
+    "courseCode": "ECA5307",
+    "courseName": "Python Programming for Economists",
+    "about": "The course is an introduction to the Python language for economic applications. First, students will be introduced to basic programming concepts, such as data structure, conditionals, loops, variables functions, and some handy libraries. Second, students will learn some popular machine learning techniques and applied econometrics tools with hands-on coding exercises to estimate the causal effects of some policies/interventions, such as the effect of implementing a government policy, changing a price, introducing a new product, etc."
+  },
+  {
+    "courseCode": "ECA5308",
+    "courseName": "Machine Learning for Applied Economics",
+    "about": "This course introduces a diverse set of statistical tools allowing data-driven decisions based on causal insights. The course broadly consists of two parts. Part I introduces core concepts and methods for causal inference techniques in applied econometrics, e.g., instrumental variables, difference-in-differences, propensity score matching, and synthetic control methods. Part II discusses a selection of new developments at the intersection of machine learning and econometrics, such as instrument selection with LASSO, Causal Forests, and double/robust machine learning."
+  },
+  {
+    "courseCode": "ECA5313",
+    "courseName": "Topics in Econometrics",
+    "about": "This course is designed to cover topics that are not covered under ECA5103 Quantitative and Computing Methods. Topics such as Bayesian econometrics, microeconometrics, panel regressions, limited dependent variable models, simultaneous equations models and marcoeconometric modelling for forecasting and policy analyese are likely to be covered under this course."
+  },
+  {
+    "courseCode": "ECA5315",
+    "courseName": "Financial Econometrics",
+    "about": "This course is designed to provide students with vigorous training in applied financial econometrics. It covers topics on characteristics of financial data; basic concepts of linear and non-linear time series models: stationary time series models, ARMA models; stochastic volatility models; GARCH models and diagnostic tests; value at risk analysis; and multivariate conditional time-varying models. The course will focus on the statistical analysis and modelling of financial data. Students will learn how to write programs in R (or in other codes) to implement the time series models by guided examples."
+  },
+  {
+    "courseCode": "ECA5325",
+    "courseName": "Project & Policy Evaluation",
+    "about": "This course emphasizes applied cost-benefit analysis. The course examines the theoretically correct approaches in the key areas and then focuses on the methods and practices in the application of cost-benefit analysis. Topics include investment criteria in the public sector, risk and uncertainty, valuing and identifying costs and benefits, shadow pricing, and the social rate of discount. In addition, students are expected to use cost-benefit analysis in a number of actual case studies."
+  }
+]

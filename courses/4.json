@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "EC2204",
+    "courseName": "Financial Accounting for Economists",
+    "about": "This course helps to let students appreciate the use of accounting in measuring the efficiency and performance of firms, and its relevance in the study of Economics. Students would be able to critically evaluate financial statements and interpret key financial ratios in the study of firms. Consequently, students would be equipped with the necessary tools to analyze and project the performance of firms in economic models."
+  },
+  {
+    "courseCode": "EC2205",
+    "courseName": "Economic Analysis of Business",
+    "about": "This course introduces students to managerial economics including the organizational aspects of business. Managerial economics extracts from microeconomic theory those concepts and techniques that enable managers to select strategic direction, to allocate efficiently the resources available to the organization, and to respond effectively to tactical issues. Students will analyse how the economist is able to provide valuable insights to managers on topics such as costs, prices, markets, mergers, divestitures, globalization, and personnel policies. The important role of the entrepreneur in the economy will be examined and students will also gain an insight into the real world- functioning of business management."
+  },
+  {
+    "courseCode": "EC2303",
+    "courseName": "Foundations for Econometrics",
+    "about": "This is an introductory course in statistics for economists. The goal of this course is to provide a rigorous foundation for students who intend to study econometrics. This course broadly covers descriptive statistics, probability and statistical inference, and bivariate linear regression. More specifically, it covers the following topics: (1) summarizing economic data, (2) classical probability theory, (3) random variables and probability distributions, (4) sampling distributions, (5) point and interval estimation, (6) hypothesis testing, and (7) bivariate linear regression analysis."
+  },
+  {
+    "courseCode": "EC2312",
+    "courseName": "Games and Strategic Behaviours: Theory and Evidence",
+    "about": "This course provides an introduction to game theory and strategic decision-making. Game theory studies how individuals make choices in strategic interactions, where each person’s outcome depends not only on their own actions but also on the actions of others. We will model strategic situations such as bargaining, the prisoner’s dilemma, coordination, conflict, competition, repeated interactions, signaling, and more. We will study key concepts such as dominance, Nash equilibrium, backward induction, subgame perfection, and their applications. By incorporating experimental and empirical evidence, we will discuss how well game theory predicts real-world behaviours."
+  },
+  {
+    "courseCode": "EC2374",
+    "courseName": "Economy of Modern China I",
+    "about": "The rise of the Chinese economy has profound impact on the world and our region. In this course, students will learn to appreciate the basic structure of China's economy by exploring its historical origins, cultural backgrounds, geographical features, and institutional evolutions. The course aims to help students develop capability of comprehending changes of economic and business environment in China and their likely implications on Southeast Asian economies."
+  },
+  {
+    "courseCode": "EC2383",
+    "courseName": "Environmental Economics",
+    "about": "The economic causes of environmental and resource problems are a major theme of the course. Economic theory is applied to environmental questions associated with resource exploitation; the problem of externalities and their management through various economic institutions, economic incentives and other instruments and policies. Means of analysing the economic implications of environmental policy are also discussed as well as the valuation of environmental quality, assessment of environmental damages, and tools needed for the evaluation of projects such as cost-benefit analysis, and environmental impact assessments. Selected topics on international environmental issues will also be discussed."
+  },
+  {
+    "courseCode": "EC2880",
+    "courseName": "Topics in Economics",
+    "about": "This course is designed to cover selected topics in economics. The topics covered will be dependent on the interest and specialties of regular or visiting staff in the Department."
+  },
+  {
+    "courseCode": "EC2880A",
+    "courseName": "Topics in Economics: The Rise and Fall of Great Cities",
+    "about": "This course is offered under FASSTrack Asia programme. Society has oriented itself within cities for more than 10 millennia. Cities enable trade, self-protection and social expression. They also create the need for politics, law and administration. This course introduces students to microeconomic theory, then uses these concepts to investigate urbanism. We discuss why cities form, how cities can succeed, and why some cities fail. We draw examples from both ancient and modern cities, with particular emphasis on cities in Asia."
+  },
+  {
+    "courseCode": "EC2880B",
+    "courseName": "Topics in Economics: Miracle and Crisis in East Asia",
+    "about": "This course is offered under the FASSTrack Asia programme. This course is designed to help students understand economic growth processes by analysing the experience of Japan, South Korea, Taiwan, Hong Kong and relating them to the experience of Singapore. Major topics include catching-up debate, comparisons of East Asian models, the role of the state, industrial and trade policy, globalisation, the Asian financial crisis, the balance sheet recession and so on."
+  },
+  {
+    "courseCode": "EC2880C",
+    "courseName": "Introduction to Foreign Exchange",
+    "about": "With the increase in global trade and capital flows, understanding and managing foreign exchange market exposures are important skills in the workplace. This course introduces students to the foreign exchange markets, institutions, tools and applications. The objective of this course is to provide students with the contexts and tools to think about current issues related to foreign exchange exposures in international finance. These include the choice of exchange rate regimes, exchange rate forecasting and exposure management using a variety of instruments, and policies to ensure the smooth functioning of the foreign exchange markets."
+  }
+]

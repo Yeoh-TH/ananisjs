@@ -1,0 +1,52 @@
+[
+  {
+    "courseCode": "AH2101",
+    "courseName": "Introduction to Art History",
+    "about": "This course introduces students to art history both as a field of academic knowledge concerned with works of art (including painting, sculpture and architecture) and as a discipline with a distinctive methodology, vocabulary and theoretical foundations. The course surveys the main trends in the artistic traditions of Europe and Asia paying special attention to cross-cultural comparative analysis (i.e. how the human body and landscape are represented in different artistic traditions)."
+  },
+  {
+    "courseCode": "AH2201",
+    "courseName": "Chinese Painting: Styles and Masters",
+    "about": "This is an introductory-level course, providing students a historical survey of three thousand years of Chinese visual arts with emphasis on painting. Through the course, students will gain a basic understanding of the historical transformation of Chinese art from the classical towards the modern and contemporary, as well as key aesthetic and philosophical conceptions underpinning the production of visual arts in the Chinese culture. In addition, the course provides some comparative studies of Chinese and Western visual arts. There will also be a component introducing the special linkages between the history of Singapore art and the Chinese context."
+  },
+  {
+    "courseCode": "AH2202",
+    "courseName": "Modern Art: A Critical Introduction",
+    "about": "What is modern art? How has it been understood and interpreted by artists, critics and art historians? What is the relationship between modern art, modernism and modernity? Is the history of modern art “multiple”? The course will explore these questions through a chronological introduction to modern art, from the 19th century to the 1950s. Students will be encouraged to critically-analyse visual and textual primary-source material to develop a nuanced understanding of different developments in modern art. Case studies on modern art in Asia will also be included to encourage students to appreciate the multiplicity and global diffusion of modern art."
+  },
+  {
+    "courseCode": "AH2203",
+    "courseName": "Empire and Art: India, Singapore, Malaya",
+    "about": "This course surveys art and architectural genres produced in British colonies, chiefly India, Singapore and Malaya through diverse visual forms such as painting, calendar art, photography, craft objects and buildings. Visual analysis is accompanied by an investigation into the shifts in materials, technologies and contexts of display and consumption, which often expressed British control, native resistance and a desire for self-rule. The course also considers the role of British institutions, namely, art schools, archaeological surveys, museums and exhibitions in grooming art production and tastes; native projects and responses are unravelled simultaneously to understand East-West interactions."
+  },
+  {
+    "courseCode": "AH2204",
+    "courseName": "Art in Southeast Asia, 4th-14th centuries CE",
+    "about": "This course examines historically significant sculptures, architecture and paintings that are produced in Southeast Asia and span the timeframe of about one thousand years. It surveys artistic fields shaped by Hindu-Buddhist ideals. These testify to the creative, technological capacities of designers and communities of artists, as well as the ambitions and resources of patrons. They also reveal links within the region, and connections with India. The course cultivates methods for analysing the composition and formation of images, designs and built forms, gaining understanding of their symbolic import, and fostering insights into complex relationships between religious ideals and their artistic representations."
+  },
+  {
+    "courseCode": "AH3201",
+    "courseName": "A History of Contemporary Art",
+    "about": "This course provides an introduction to key movements and tendencies in late modern and contemporary art, primarily in Europe and North America, but also extending to related developments around the world. Through a close analysis of significant artists, exhibitions and texts, the course will encourage a historical understanding of the emergence of Western contemporary art and its role within the globalised art world of today. The influences of social, political and cultural forces will also be discussed, providing a wider framework for students to interpret artworks and to examine their context and reception."
+  },
+  {
+    "courseCode": "AH3202",
+    "courseName": "Time Traveller: The Curatorial in Southeast Asia",
+    "about": "The course aims to equip students with curatorial methodologies and theories drawn from the history of exhibitions in Southeast Asia. Students will be introduced to postcolonial theories, approaches and methodologies with an inter-disciplinary focus that can be used to frame the art histories of the region. This course will provide opportunities for students to gain hands-on experience of curatorial practices through workshops with curators, conservators, educators and public programmers by drawing resources from the NUS Museum and the National Gallery Singapore."
+  },
+  {
+    "courseCode": "AH3203",
+    "courseName": "Collecting Art in Europe and Asia (1500 CE – 2000 CE)",
+    "about": "This course examines the development of a wide range of private and institutional collecting practices in Europe and Asia, from the late medieval period to the present day. It draws on diverse theoretical approaches to collection studies. The course seeks to understand the contributions of collectors to art-production, display and taste-making and value-arbitration, and, consequently to the overall contours of art history and its canons. It adopts an inter-disciplinary approach to demonstrate how collectors have actively shaped other histories of modernities, nationalisms and cosmopolitanisms."
+  },
+  {
+    "courseCode": "AH3204",
+    "courseName": "Methods and Approaches to Art History",
+    "about": "This coursee examines the history of art history as a discipline looking at its origins, evolution and shifts across time. It seeks to understand how genres in art history are sequenced, compared and analysed in the European tradition. The course also examines how art history evolves differently in Asian texts and Asian contemporary writing. These differences in the methods and approaches to art history provide diverse frameworks to appreciate art-production and consumption globally."
+  },
+  {
+    "courseCode": "AH3205",
+    "courseName": "Southeast Asian Art and Modernity",
+    "about": "What is “modern art” in “Southeast Asia”? When and how did it emerge? In what ways have modern art and its histories been discussed, as distinct yet also connected to the modern art of other regions? This course explores these questions by guiding students through key historical approaches to the relationship between art and modernity in Southeast Asia, since the 19th century. The course’s thematic structure pairs historical and methodological concepts with diverse case studies from visual art and other cultural forms. This equips students with the skills for critically reflexive considerations of relationships between art, modernity, and Southeast Asia."
+  }
+]
